@@ -1,0 +1,4 @@
+browser-choice=1
+browsers=<?xml version\="1.0" encoding\="UTF-8"?>\n<web-browsers current\="2">\n<system/>\n<external location\="/usr/bin/firefox" name\="Firefox"/>\n<external location\="/usr/bin/chromium-browser" name\="Chromium"/>\n</web-browsers>
+eclipse.preferences.version=1
+internalWebBrowserHistory=file\:///home/hung/Vina-%20Java/SPRING/Cland/cland/src/main/webapp/WEB-INF/templates/cland/images/header_bg.png|*|file\:/home/hung/Vina-%20Java/SPRING/Cland/cland/src/main/webapp/WEB-INF/templates/cland/images/header_bg.png|*|http\://localhost\:8070/springd1/WEB-INF/classes/edu/vinaenter/controllers/IndexController.java|*|http\://localhost\:8070/springd1/index|*|http\://localhost\:8070/springd1/|*|

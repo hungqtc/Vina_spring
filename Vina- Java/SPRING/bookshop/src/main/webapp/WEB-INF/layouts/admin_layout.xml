@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE tiles-definitions PUBLIC
+       "-//Apache Software Foundation//DTD Tiles Configuration 3.0//EN"
+       "http://tiles.apache.org/dtds/tiles-config_3_0.dtd">
+<tiles-definitions>
+	 <definition name="book.admin.layout" template="/WEB-INF/templates/admin/inc/master.jsp">
+	 	<put-attribute name="title" value="Bookshop Admin" />
+	 	<put-attribute name="header" value="/WEB-INF/templates/admin/inc/header.jsp" />
+	 	<put-attribute name="sidebar" value="/WEB-INF/templates/admin/inc/sidebar.jsp" />
+	 	<put-attribute name="content" value="" />
+	 	<put-attribute name="footer" value="/WEB-INF/templates/admin/inc/footer.jsp" />
+	 	<put-attribute name="js" value="" />
+	 	<put-attribute name="stylesheets" value="" />
+	 </definition>
+	
+	
+	 <definition name="book.admin.index" extends="book.admin.layout" >
+	 	<put-attribute name="content" value="/WEB-INF/views/admin/index/index.jsp" />
+	 </definition>
+	 
+	 <definition name="book.admin.cat.index" extends="book.admin.layout" >
+	 	<put-attribute name="content" value="/WEB-INF/views/admin/cat/index.jsp" />
+	 </definition>
+	 
+	 <definition name="book.admin.cat.add" extends="book.admin.layout" >
+	 	<put-attribute name="content" value="/WEB-INF/views/admin/cat/add.jsp" />
+	 </definition>
+	 
+	 <definition name="book.admin.cat.edit" extends="book.admin.layout" >
+	 	<put-attribute name="content" value="/WEB-INF/views/admin/cat/edit.jsp" />
+	 </definition>
+	 
+	 <definition name="book.admin.user.index" extends="book.admin.layout" >
+	 	<put-attribute name="content" value="/WEB-INF/views/admin/user/index.jsp" />
+	 </definition>
+	 
+	 <definition name="book.admin.user.add" extends="book.admin.layout" >
+	 	<put-attribute name="content" value="/WEB-INF/views/admin/user/add.jsp" />
+	 </definition>
+	 
+	 <definition name="book.admin.user.edit" extends="book.admin.layout" >
+	 	<put-attribute name="content" value="/WEB-INF/views/admin/user/edit.jsp" />
+	 </definition>
+	
+	<definition name="book.admin.book.index" extends="book.admin.layout" >
+	 	<put-attribute name="content" value="/WEB-INF/views/admin/book/index.jsp" />
+	 </definition>
+	  
+	 <definition name="book.admin.book.add" extends="book.admin.layout" >
+	 	<put-attribute name="content" value="/WEB-INF/views/admin/book/add.jsp" />
+	 </definition>
+	 
+	 <definition name="book.admin.book.edit" extends="book.admin.layout" >
+	 	<put-attribute name="content" value="/WEB-INF/views/admin/book/edit.jsp" />
+	 </definition> 
+	 
+	 <definition name="book.auth.login" extends="book.admin.layout" >
+	 	<put-attribute name="content" value="/WEB-INF/views/auth/login.jsp" />
+	 </definition> 
+	
+	 
+</tiles-definitions>

@@ -1,0 +1,1210 @@
+
+Aug 25, 2019 20:57:14.90 NEW SESSION
+Aug 25, 2019 20:57:14.90 [9061:9082:0825/205714.902988:ERROR:browser_process_sub_thread.cc(203)] Waited 8 ms for network service
+Aug 25, 2019 20:57:15.07 Opening in existing browser session.
+Aug 25, 2019 21:04:47.95 [9429:9448:0825/210447.957411:ERROR:browser_process_sub_thread.cc(203)] Waited 10 ms for network service
+Aug 25, 2019 21:04:48.00 Opening in existing browser session.
+Aug 25, 2019 21:06:19.74 [9696:9714:0825/210619.743612:ERROR:browser_process_sub_thread.cc(203)] Waited 11 ms for network service
+Aug 25, 2019 21:06:19.83 Opening in existing browser session.
+Aug 25, 2019 21:10:39.43 [10062:10080:0825/211039.432976:ERROR:browser_process_sub_thread.cc(203)] Waited 10 ms for network service
+Aug 25, 2019 21:10:39.48 Opening in existing browser session.
+Aug 25, 2019 21:14:56.64 [10462:10482:0825/211456.622842:ERROR:browser_process_sub_thread.cc(203)] Waited 521 ms for network service
+Aug 25, 2019 21:14:56.64 Opening in existing browser session.
+
+Aug 28, 2019 16:04:43.21 NEW SESSION
+Aug 28, 2019 16:04:43.21 [18658:18679:0828/160443.200371:ERROR:browser_process_sub_thread.cc(203)] Waited 92 ms for network service
+Aug 28, 2019 16:04:43.23 Opening in existing browser session.
+Aug 28, 2019 16:23:49.36 [19855:19875:0828/162349.365509:ERROR:browser_process_sub_thread.cc(203)] Waited 225 ms for network service
+Aug 28, 2019 16:23:49.44 Opening in existing browser session.
+Aug 28, 2019 16:28:00.72 [20315:20335:0828/162800.710051:ERROR:browser_process_sub_thread.cc(203)] Waited 923 ms for network service
+Aug 28, 2019 16:28:00.83 Opening in existing browser session.
+
+Aug 28, 2019 18:57:28.98 NEW SESSION
+Aug 28, 2019 18:57:28.98 [3739:3759:0828/185728.950217:ERROR:browser_process_sub_thread.cc(203)] Waited 0 ms for network service
+Aug 28, 2019 18:57:29.22 Opening in existing browser session.
+Aug 28, 2019 19:00:47.09 [4029:4048:0828/190047.089866:ERROR:browser_process_sub_thread.cc(203)] Waited 11 ms for network service
+Aug 28, 2019 19:00:47.21 Opening in existing browser session.
+Aug 28, 2019 19:01:39.60 [4310:4328:0828/190139.600569:ERROR:browser_process_sub_thread.cc(203)] Waited 10 ms for network service
+Aug 28, 2019 19:01:39.65 Opening in existing browser session.
+Aug 28, 2019 19:02:18.42 [4572:4590:0828/190218.419475:ERROR:browser_process_sub_thread.cc(203)] Waited 1 ms for network service
+Aug 28, 2019 19:02:18.51 Opening in existing browser session.
+Aug 28, 2019 19:04:09.49 [4957:4976:0828/190409.489853:ERROR:browser_process_sub_thread.cc(203)] Waited 13 ms for network service
+Aug 28, 2019 19:04:09.53 Opening in existing browser session.
+Aug 28, 2019 19:08:25.72 [5306:5324:0828/190825.721336:ERROR:browser_process_sub_thread.cc(203)] Waited 11 ms for network service
+Aug 28, 2019 19:08:25.82 Opening in existing browser session.
+Aug 28, 2019 19:14:03.63 [6155:6175:0828/191403.637836:ERROR:browser_process_sub_thread.cc(203)] Waited 104 ms for network service
+Aug 28, 2019 19:14:03.70 Opening in existing browser session.
+Aug 28, 2019 19:15:08.61 Opening in existing browser session.
+Aug 28, 2019 19:16:43.72 [6636:6655:0828/191643.721964:ERROR:browser_process_sub_thread.cc(203)] Waited 5 ms for network service
+Aug 28, 2019 19:16:43.79 Opening in existing browser session.
+Aug 28, 2019 19:29:00.95 [7105:7123:0828/192900.949976:ERROR:browser_process_sub_thread.cc(203)] Waited 27 ms for network service
+Aug 28, 2019 19:29:00.98 Opening in existing browser session.
+Aug 28, 2019 20:11:28.83 [8671:8689:0828/201128.831427:ERROR:browser_process_sub_thread.cc(203)] Waited 5 ms for network service
+Aug 28, 2019 20:11:28.89 Opening in existing browser session.
+Aug 28, 2019 20:12:46.19 [8912:8931:0828/201246.190128:ERROR:browser_process_sub_thread.cc(203)] Waited 5 ms for network service
+Aug 28, 2019 20:12:46.25 Opening in existing browser session.
+Aug 28, 2019 20:20:45.87 [9302:9322:0828/202045.875141:ERROR:browser_process_sub_thread.cc(203)] Waited 5 ms for network service
+Aug 28, 2019 20:20:46.01 Opening in existing browser session.
+Aug 28, 2019 20:28:48.54 [9739:9758:0828/202848.546322:ERROR:browser_process_sub_thread.cc(203)] Waited 8 ms for network service
+Aug 28, 2019 20:28:48.61 Opening in existing browser session.
+Aug 28, 2019 20:36:59.16 [10197:10215:0828/203659.162119:ERROR:browser_process_sub_thread.cc(203)] Waited 5 ms for network service
+Aug 28, 2019 20:36:59.22 Opening in existing browser session.
+Aug 28, 2019 20:46:46.51 [10554:10573:0828/204646.515215:ERROR:browser_process_sub_thread.cc(203)] Waited 11 ms for network service
+Aug 28, 2019 20:46:46.57 Opening in existing browser session.
+Aug 28, 2019 20:51:01.64 [10931:10948:0828/205101.637232:ERROR:browser_process_sub_thread.cc(203)] Waited 7 ms for network service
+Aug 28, 2019 20:51:01.69 Opening in existing browser session.
+Aug 28, 2019 20:54:26.45 [11251:11268:0828/205426.451482:ERROR:browser_process_sub_thread.cc(203)] Waited 10 ms for network service
+Aug 28, 2019 20:54:26.50 Opening in existing browser session.
+Aug 28, 2019 20:55:42.62 [11502:11519:0828/205542.624076:ERROR:browser_process_sub_thread.cc(203)] Waited 6 ms for network service
+Aug 28, 2019 20:55:42.67 Opening in existing browser session.
+Aug 28, 2019 20:56:13.79 [11750:11767:0828/205613.796728:ERROR:browser_process_sub_thread.cc(203)] Waited 7 ms for network service
+Aug 28, 2019 20:56:13.87 Opening in existing browser session.
+Aug 28, 2019 21:01:59.67 [12198:12215:0828/210159.675977:ERROR:browser_process_sub_thread.cc(203)] Waited 6 ms for network service
+Aug 28, 2019 21:01:59.74 Opening in existing browser session.
+Aug 28, 2019 21:15:25.97 [12656:12675:0828/211525.979420:ERROR:browser_process_sub_thread.cc(203)] Waited 8 ms for network service
+Aug 28, 2019 21:15:26.05 Opening in existing browser session.
+Aug 28, 2019 21:32:39.70 [13366:13385:0828/213239.709724:ERROR:browser_process_sub_thread.cc(203)] Waited 5 ms for network service
+Aug 28, 2019 21:32:39.77 Opening in existing browser session.
+Aug 28, 2019 21:37:18.31 [13686:13703:0828/213718.318806:ERROR:browser_process_sub_thread.cc(203)] Waited 4 ms for network service
+Aug 28, 2019 21:37:18.37 Opening in existing browser session.
+Aug 28, 2019 21:45:07.14 [14299:14318:0828/214507.149550:ERROR:browser_process_sub_thread.cc(203)] Waited 12 ms for network service
+Aug 28, 2019 21:45:07.23 Opening in existing browser session.
+
+Aug 30, 2019 19:58:39.47 NEW SESSION
+Aug 30, 2019 19:58:39.47 [4759:4779:0830/195839.438487:ERROR:browser_process_sub_thread.cc(203)] Waited 94 ms for network service
+Aug 30, 2019 19:58:39.65 Opening in existing browser session.
+Aug 30, 2019 20:25:48.63 [5856:5876:0830/202548.630986:ERROR:browser_process_sub_thread.cc(203)] Waited 0 ms for network service
+Aug 30, 2019 20:25:49.09 Opening in existing browser session.
+Aug 30, 2019 20:28:38.36 [6183:6202:0830/202838.367247:ERROR:browser_process_sub_thread.cc(203)] Waited 11 ms for network service
+Aug 30, 2019 20:28:38.47 Opening in existing browser session.
+Aug 30, 2019 20:29:37.23 [6422:6439:0830/202937.238113:ERROR:browser_process_sub_thread.cc(203)] Waited 17 ms for network service
+Aug 30, 2019 20:29:37.28 Opening in existing browser session.
+Aug 30, 2019 20:51:26.60 [7484:7506:0830/205126.603739:ERROR:browser_process_sub_thread.cc(203)] Waited 94 ms for network service
+Aug 30, 2019 20:51:26.80 Opening in existing browser session.
+Aug 30, 2019 20:57:39.58 [8070:8090:0830/205739.585811:ERROR:browser_process_sub_thread.cc(203)] Waited 0 ms for network service
+Aug 30, 2019 20:57:39.65 Opening in existing browser session.
+Aug 30, 2019 21:38:13.76 [9573:9593:0830/213813.719220:ERROR:browser_process_sub_thread.cc(203)] Waited 193 ms for network service
+Aug 30, 2019 21:38:13.87 Opening in existing browser session.
+Aug 30, 2019 21:58:31.39 [10807:10826:0830/215831.390562:ERROR:browser_process_sub_thread.cc(203)] Waited 3 ms for network service
+Aug 30, 2019 21:58:31.60 Opening in existing browser session.
+Aug 30, 2019 22:25:39.80 [11751:11771:0830/222539.693552:ERROR:browser_process_sub_thread.cc(203)] Waited 324 ms for network service
+Aug 30, 2019 22:25:39.80 Opening in existing browser session.
+
+Sep 08, 2019 19:50:03.78 NEW SESSION
+Sep 08, 2019 19:50:03.78 [8775:8795:0908/195003.747144:ERROR:browser_process_sub_thread.cc(203)] Waited 324 ms for network service
+Sep 08, 2019 19:50:03.87 Opening in existing browser session.
+Sep 08, 2019 20:11:20.17 [9916:9936:0908/201120.165454:ERROR:browser_process_sub_thread.cc(203)] Waited 11 ms for network service
+Sep 08, 2019 20:11:20.25 Opening in existing browser session.
+Sep 08, 2019 20:19:25.50 [10359:10377:0908/201925.500829:ERROR:browser_process_sub_thread.cc(203)] Waited 6 ms for network service
+Sep 08, 2019 20:19:25.63 Opening in existing browser session.
+Sep 08, 2019 20:21:40.77 [10697:10714:0908/202140.774144:ERROR:browser_process_sub_thread.cc(203)] Waited 10 ms for network service
+Sep 08, 2019 20:21:40.89 Opening in existing browser session.
+Sep 08, 2019 20:27:30.76 [11098:11115:0908/202730.765457:ERROR:browser_process_sub_thread.cc(203)] Waited 7 ms for network service
+Sep 08, 2019 20:27:30.83 Opening in existing browser session.
+Sep 08, 2019 20:30:49.67 [11414:11431:0908/203049.671467:ERROR:browser_process_sub_thread.cc(203)] Waited 7 ms for network service
+Sep 08, 2019 20:30:49.76 Opening in existing browser session.
+Sep 08, 2019 20:33:39.30 [11753:11771:0908/203339.307471:ERROR:browser_process_sub_thread.cc(203)] Waited 5 ms for network service
+Sep 08, 2019 20:33:39.42 Opening in existing browser session.
+Sep 08, 2019 21:16:19.50 [13119:13137:0908/211619.504861:ERROR:browser_process_sub_thread.cc(203)] Waited 7 ms for network service
+Sep 08, 2019 21:16:19.64 Opening in existing browser session.
+Sep 08, 2019 21:19:59.61 [13562:13580:0908/211959.617594:ERROR:browser_process_sub_thread.cc(203)] Waited 19 ms for network service
+Sep 08, 2019 21:19:59.68 Opening in existing browser session.
+Sep 08, 2019 21:36:52.65 [14138:14157:0908/213652.653690:ERROR:browser_process_sub_thread.cc(203)] Waited 20 ms for network service
+Sep 08, 2019 21:36:52.79 Opening in existing browser session.
+
+Sep 15, 2019 19:14:31.27 NEW SESSION
+Sep 15, 2019 19:14:31.27 [7767:7787:0915/191431.211971:ERROR:browser_process_sub_thread.cc(203)] Waited 783 ms for network service
+Sep 15, 2019 19:14:31.34 Opening in existing browser session.
+Sep 15, 2019 19:48:32.96 [9155:9174:0915/194832.914925:ERROR:browser_process_sub_thread.cc(203)] Waited 14 ms for network service
+Sep 15, 2019 19:48:33.12 Opening in existing browser session.
+Sep 15, 2019 20:09:30.02 [9941:9959:0915/200930.026457:ERROR:browser_process_sub_thread.cc(203)] Waited 5 ms for network service
+Sep 15, 2019 20:09:30.12 Opening in existing browser session.
+Sep 15, 2019 20:10:46.28 [10153:10171:0915/201046.288294:ERROR:browser_process_sub_thread.cc(203)] Waited 10 ms for network service
+Sep 15, 2019 20:10:46.38 Opening in existing browser session.
+Sep 15, 2019 20:12:53.10 [10594:10611:0915/201253.099544:ERROR:browser_process_sub_thread.cc(203)] Waited 7 ms for network service
+Sep 15, 2019 20:12:53.19 Opening in existing browser session.
+Sep 15, 2019 20:15:00.50 [10899:10917:0915/201500.501160:ERROR:browser_process_sub_thread.cc(203)] Waited 16 ms for network service
+Sep 15, 2019 20:15:00.56 Opening in existing browser session.
+Sep 15, 2019 20:32:36.59 [11789:11808:0915/203236.597224:ERROR:browser_process_sub_thread.cc(203)] Waited 28 ms for network service
+Sep 15, 2019 20:32:36.64 Opening in existing browser session.
+Sep 15, 2019 20:38:50.20 [12160:12179:0915/203850.199729:ERROR:browser_process_sub_thread.cc(203)] Waited 5 ms for network service
+Sep 15, 2019 20:38:50.31 Opening in existing browser session.
+Sep 15, 2019 20:41:30.31 [12486:12504:0915/204130.310444:ERROR:browser_process_sub_thread.cc(203)] Waited 9 ms for network service
+Sep 15, 2019 20:41:30.37 Opening in existing browser session.
+Sep 15, 2019 20:43:00.64 [12755:12773:0915/204300.636120:ERROR:browser_process_sub_thread.cc(203)] Waited 12 ms for network service
+Sep 15, 2019 20:43:00.69 Opening in existing browser session.
+Sep 15, 2019 20:45:03.66 [13102:13119:0915/204503.661433:ERROR:browser_process_sub_thread.cc(203)] Waited 11 ms for network service
+Sep 15, 2019 20:45:03.73 Opening in existing browser session.
+Sep 15, 2019 20:57:47.66 [13655:13674:0915/205747.667114:ERROR:browser_process_sub_thread.cc(203)] Waited 10 ms for network service
+Sep 15, 2019 20:57:47.74 Opening in existing browser session.
+Sep 15, 2019 21:28:35.17 [14904:14923:0915/212835.169751:ERROR:browser_process_sub_thread.cc(203)] Waited 11 ms for network service
+Sep 15, 2019 21:28:35.21 Opening in existing browser session.
+Sep 15, 2019 21:30:54.39 [15158:15175:0915/213054.398233:ERROR:browser_process_sub_thread.cc(203)] Waited 18 ms for network service
+Sep 15, 2019 21:30:54.44 Opening in existing browser session.
+
+Sep 18, 2019 16:28:02.28 NEW SESSION
+Sep 18, 2019 16:28:02.28 [3928:3928:0918/162802.210481:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Sep 18, 2019 16:28:16.42 [3928:3928:0918/162816.420224:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Sep 18, 2019 17:19:20.91 [5423:5443:0918/171920.880761:ERROR:browser_process_sub_thread.cc(203)] Waited 0 ms for network service
+Sep 18, 2019 17:19:21.24 Opening in existing browser session.
+Sep 18, 2019 17:26:05.38 [5933:5953:0918/172605.382282:ERROR:browser_process_sub_thread.cc(203)] Waited 0 ms for network service
+Sep 18, 2019 17:26:06.01 Opening in existing browser session.
+Sep 18, 2019 17:32:25.65 Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+Sep 18, 2019 17:39:18.24 [6543:6562:0918/173918.241198:ERROR:browser_process_sub_thread.cc(203)] Waited 322 ms for network service
+Sep 18, 2019 17:39:18.39 Opening in existing browser session.
+Sep 18, 2019 17:44:47.66 [3928:3928:0918/174447.663421:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Sep 18, 2019 17:44:59.67 [6961:6980:0918/174459.678409:ERROR:browser_process_sub_thread.cc(203)] Waited 32 ms for network service
+Sep 18, 2019 17:44:59.82 Opening in existing browser session.
+Sep 18, 2019 17:59:25.50 [3928:3928:0918/175925.503978:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Sep 18, 2019 18:10:07.25 [8080:8099:0918/181007.255964:ERROR:browser_process_sub_thread.cc(203)] Waited 5 ms for network service
+Sep 18, 2019 18:10:07.32 Opening in existing browser session.
+Sep 18, 2019 18:28:52.51 [3928:3928:0918/182852.394133:ERROR:shared_image_manager.cc(120)] SharedImageManager::ProduceGLTexture: Trying to produce a representation from a non-existent mailbox.
+Sep 18, 2019 18:28:52.81 [3928:3928:0918/182852.466266:ERROR:gles2_cmd_decoder.cc(18538)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoCreateAndTexStorage2DSharedImageINTERNAL: invalid mailbox name
+Sep 18, 2019 18:28:52.81 [3928:3928:0918/182852.466469:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:52.81 [3928:3928:0918/182852.466580:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:52.81 [3928:3928:0918/182852.466659:ERROR:shared_image_manager.cc(120)] SharedImageManager::ProduceGLTexture: Trying to produce a representation from a non-existent mailbox.
+Sep 18, 2019 18:28:52.81 [3928:3928:0918/182852.466833:ERROR:gles2_cmd_decoder.cc(18538)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoCreateAndTexStorage2DSharedImageINTERNAL: invalid mailbox name
+Sep 18, 2019 18:28:52.81 [3928:3928:0918/182852.466934:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:52.81 [3928:3928:0918/182852.467028:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:52.81 [3928:3928:0918/182852.467259:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:52.82 [3928:3928:0918/182852.467515:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:52.82 [3928:3928:0918/182852.467618:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:52.82 [3928:3928:0918/182852.467690:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:52.82 [3928:3928:0918/182852.467803:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:52.82 [3928:3928:0918/182852.467983:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:52.82 [3928:3928:0918/182852.520455:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:52.82 [3928:3928:0918/182852.520615:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:52.82 [3928:3928:0918/182852.520707:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:52.82 [3928:3928:0918/182852.520805:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:52.82 [3928:3928:0918/182852.520918:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:52.82 [3928:3928:0918/182852.521103:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:52.82 [3928:3928:0918/182852.521212:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:52.82 [3928:3928:0918/182852.521292:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:52.82 [3928:3928:0918/182852.521400:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:52.82 [3928:3928:0918/182852.521558:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.42 [3928:3928:0918/182853.420949:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.42 [3928:3928:0918/182853.421139:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.42 [3928:3928:0918/182853.421235:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.42 [3928:3928:0918/182853.421363:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.42 [3928:3928:0918/182853.421470:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:53.42 [3928:3928:0918/182853.421669:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.42 [3928:3928:0918/182853.421772:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.42 [3928:3928:0918/182853.421903:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.42 [3928:3928:0918/182853.422006:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:53.42 [3928:3928:0918/182853.422151:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.45 [3928:3928:0918/182853.455801:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.45 [3928:3928:0918/182853.455851:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.45 [3928:3928:0918/182853.455878:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.45 [3928:3928:0918/182853.455904:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.45 [3928:3928:0918/182853.455944:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:53.45 [3928:3928:0918/182853.456011:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.45 [3928:3928:0918/182853.456040:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.45 [3928:3928:0918/182853.456069:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.45 [3928:3928:0918/182853.456100:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:53.45 [3928:3928:0918/182853.456143:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.64 [3928:3928:0918/182853.641543:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.64 [3928:3928:0918/182853.641651:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.64 [3928:3928:0918/182853.641707:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.64 [3928:3928:0918/182853.641759:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.64 [3928:3928:0918/182853.641841:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:53.64 [3928:3928:0918/182853.641928:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.64 [3928:3928:0918/182853.641974:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.64 [3928:3928:0918/182853.642015:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.64 [3928:3928:0918/182853.642065:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:53.64 [3928:3928:0918/182853.642137:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.65 [3928:3928:0918/182853.653125:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.65 [3928:3928:0918/182853.653175:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.65 [3928:3928:0918/182853.653205:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.65 [3928:3928:0918/182853.653228:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.65 [3928:3928:0918/182853.653266:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:53.65 [3928:3928:0918/182853.653310:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.65 [3928:3928:0918/182853.653331:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.65 [3928:3928:0918/182853.653355:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.65 [3928:3928:0918/182853.653381:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:53.65 [3928:3928:0918/182853.653417:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.67 [3928:3928:0918/182853.672547:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.67 [3928:3928:0918/182853.672617:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.67 [3928:3928:0918/182853.672668:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.67 [3928:3928:0918/182853.672708:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.67 [3928:3928:0918/182853.672770:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:53.67 [3928:3928:0918/182853.672847:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.67 [3928:3928:0918/182853.672890:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.67 [3928:3928:0918/182853.672929:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.67 [3928:3928:0918/182853.672979:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:53.67 [3928:3928:0918/182853.675185:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.69 [3928:3928:0918/182853.694754:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.69 [3928:3928:0918/182853.694922:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.69 [3928:3928:0918/182853.695028:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.69 [3928:3928:0918/182853.695228:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.69 [3928:3928:0918/182853.695358:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:53.69 [3928:3928:0918/182853.695512:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.69 [3928:3928:0918/182853.695566:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.70 [3928:3928:0918/182853.695615:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.70 [3928:3928:0918/182853.695673:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:53.70 [3928:3928:0918/182853.695757:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.71 [3928:3928:0918/182853.715506:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.71 [3928:3928:0918/182853.716015:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.71 [3928:3928:0918/182853.716427:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.71 [3928:3928:0918/182853.716824:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.71 [3928:3928:0918/182853.717037:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:53.71 [3928:3928:0918/182853.717302:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.71 [3928:3928:0918/182853.717444:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.72 [3928:3928:0918/182853.717565:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.72 [3928:3928:0918/182853.717697:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:53.72 [3928:3928:0918/182853.717900:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.72 [3928:3928:0918/182853.728576:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.72 [3928:3928:0918/182853.728640:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.72 [3928:3928:0918/182853.728667:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.72 [3928:3928:0918/182853.728699:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.72 [3928:3928:0918/182853.728741:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:53.72 [3928:3928:0918/182853.728808:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.72 [3928:3928:0918/182853.728849:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.72 [3928:3928:0918/182853.728877:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.73 [3928:3928:0918/182853.728920:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:53.73 [3928:3928:0918/182853.728979:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.73 [3928:3928:0918/182853.738604:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.73 [3928:3928:0918/182853.738664:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.73 [3928:3928:0918/182853.738703:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.73 [3928:3928:0918/182853.738729:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.73 [3928:3928:0918/182853.738767:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:53.73 [3928:3928:0918/182853.738821:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.73 [3928:3928:0918/182853.738844:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.73 [3928:3928:0918/182853.738864:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.74 [3928:3928:0918/182853.738891:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:53.74 [3928:3928:0918/182853.738928:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.75 [3928:3928:0918/182853.754202:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.75 [3928:3928:0918/182853.754297:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.75 [3928:3928:0918/182853.754338:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.75 [3928:3928:0918/182853.754412:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.75 [3928:3928:0918/182853.754467:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:53.75 [3928:3928:0918/182853.754543:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.75 [3928:3928:0918/182853.754591:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.75 [3928:3928:0918/182853.754636:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.75 [3928:3928:0918/182853.754694:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:53.75 [3928:3928:0918/182853.754755:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.76 [3928:3928:0918/182853.768077:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.76 [3928:3928:0918/182853.768139:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.76 [3928:3928:0918/182853.768162:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.76 [3928:3928:0918/182853.768190:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.76 [3928:3928:0918/182853.768224:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:53.76 [3928:3928:0918/182853.768335:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.76 [3928:3928:0918/182853.768384:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.76 [3928:3928:0918/182853.768428:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.77 [3928:3928:0918/182853.768477:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:53.77 [3928:3928:0918/182853.768541:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.78 [3928:3928:0918/182853.785033:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.78 [3928:3928:0918/182853.785407:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.78 [3928:3928:0918/182853.785498:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.78 [3928:3928:0918/182853.785538:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.78 [3928:3928:0918/182853.785653:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:53.78 [3928:3928:0918/182853.785891:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.78 [3928:3928:0918/182853.785936:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.78 [3928:3928:0918/182853.785971:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.78 [3928:3928:0918/182853.786026:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:53.78 [3928:3928:0918/182853.787129:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.80 [3928:3928:0918/182853.801708:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.80 [3928:3928:0918/182853.801818:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.80 [3928:3928:0918/182853.801862:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.80 [3928:3928:0918/182853.801905:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.80 [3928:3928:0918/182853.802016:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:53.80 [3928:3928:0918/182853.802217:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.80 [3928:3928:0918/182853.802301:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.80 [3928:3928:0918/182853.802340:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.80 [3928:3928:0918/182853.802412:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:53.80 [3928:3928:0918/182853.802555:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.81 [3928:3928:0918/182853.818285:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.81 [3928:3928:0918/182853.818627:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.81 [3928:3928:0918/182853.818692:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.81 [3928:3928:0918/182853.818720:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.82 [3928:3928:0918/182853.818875:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:53.82 [3928:3928:0918/182853.819210:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.82 [3928:3928:0918/182853.819449:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.82 [3928:3928:0918/182853.819713:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.82 [3928:3928:0918/182853.819905:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:53.82 [3928:3928:0918/182853.820089:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.84 [3928:3928:0918/182853.843978:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.84 [3928:3928:0918/182853.844124:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.84 [3928:3928:0918/182853.844223:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.84 [3928:3928:0918/182853.844315:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.84 [3928:3928:0918/182853.844455:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:53.84 [3928:3928:0918/182853.844662:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.84 [3928:3928:0918/182853.844766:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.84 [3928:3928:0918/182853.844847:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.84 [3928:3928:0918/182853.844965:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:53.84 [3928:3928:0918/182853.845130:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.86 [3928:3928:0918/182853.862369:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.86 [3928:3928:0918/182853.862528:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.86 [3928:3928:0918/182853.862655:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.86 [3928:3928:0918/182853.862754:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.86 [3928:3928:0918/182853.862870:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:53.86 [3928:3928:0918/182853.863058:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.86 [3928:3928:0918/182853.863249:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.86 [3928:3928:0918/182853.863332:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.86 [3928:3928:0918/182853.863436:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:53.86 [3928:3928:0918/182853.863767:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.88 [3928:3928:0918/182853.879930:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.88 [3928:3928:0918/182853.880122:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.88 [3928:3928:0918/182853.880225:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.88 [3928:3928:0918/182853.880351:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.88 [3928:3928:0918/182853.880477:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:53.88 [3928:3928:0918/182853.880746:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.88 [3928:3928:0918/182853.880900:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.88 [3928:3928:0918/182853.881056:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.88 [3928:3928:0918/182853.881803:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:53.88 [3928:3928:0918/182853.882510:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.90 [3928:3928:0918/182853.907908:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.90 [3928:3928:0918/182853.908055:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.90 [3928:3928:0918/182853.908420:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.90 [3928:3928:0918/182853.908564:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.91 [3928:3928:0918/182853.908932:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:53.91 [3928:3928:0918/182853.909560:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.91 [3928:3928:0918/182853.909699:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.91 [3928:3928:0918/182853.910025:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.91 [3928:3928:0918/182853.910575:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:53.91 [3928:3928:0918/182853.911138:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.93 [3928:3928:0918/182853.937528:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.93 [3928:3928:0918/182853.937704:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.93 [3928:3928:0918/182853.937809:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.93 [3928:3928:0918/182853.937945:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.94 [3928:3928:0918/182853.938172:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:53.94 [3928:3928:0918/182853.938533:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.94 [3928:3928:0918/182853.938745:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.94 [3928:3928:0918/182853.938940:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.94 [3928:3928:0918/182853.939176:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:53.94 [3928:3928:0918/182853.939338:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.95 [3928:3928:0918/182853.956627:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.95 [3928:3928:0918/182853.957114:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.95 [3928:3928:0918/182853.957291:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.95 [3928:3928:0918/182853.957438:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.95 [3928:3928:0918/182853.957600:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:53.95 [3928:3928:0918/182853.957780:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.95 [3928:3928:0918/182853.957930:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.95 [3928:3928:0918/182853.958074:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.95 [3928:3928:0918/182853.958231:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:53.95 [3928:3928:0918/182853.958399:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.97 [3928:3928:0918/182853.971239:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.97 [3928:3928:0918/182853.971284:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.97 [3928:3928:0918/182853.971307:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.97 [3928:3928:0918/182853.971332:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.97 [3928:3928:0918/182853.971366:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:53.97 [3928:3928:0918/182853.971409:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.97 [3928:3928:0918/182853.971429:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.97 [3928:3928:0918/182853.971449:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.97 [3928:3928:0918/182853.971474:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:53.97 [3928:3928:0918/182853.971511:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.98 [3928:3928:0918/182853.984876:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.98 [3928:3928:0918/182853.985020:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.98 [3928:3928:0918/182853.985052:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.98 [3928:3928:0918/182853.985074:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.98 [3928:3928:0918/182853.985159:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:53.98 [3928:3928:0918/182853.985416:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.98 [3928:3928:0918/182853.985501:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.98 [3928:3928:0918/182853.985553:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:53.98 [3928:3928:0918/182853.985614:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:53.98 [3928:3928:0918/182853.985675:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:54.00 [3928:3928:0918/182854.003365:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:54.00 [3928:3928:0918/182854.003417:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:54.00 [3928:3928:0918/182854.003441:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:54.00 [3928:3928:0918/182854.003502:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:54.00 [3928:3928:0918/182854.003566:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:54.00 [3928:3928:0918/182854.003625:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:54.00 [3928:3928:0918/182854.003692:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:54.00 [3928:3928:0918/182854.003725:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:54.00 [3928:3928:0918/182854.003924:ERROR:gles2_cmd_decoder.cc(10749)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Sep 18, 2019 18:28:54.00 [3928:3928:0918/182854.004012:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:54.03 [3928:3928:0918/182854.030086:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:54.03 [3928:3928:0918/182854.030133:ERROR:gles2_cmd_decoder.cc(18582)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:54.03 [3928:3928:0918/182854.030150:ERROR:gles2_cmd_decoder.cc(18559)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Sep 18, 2019 18:28:54.03 [3928:3928:0918/182854.030170:ERROR:logger.cc(46)] Too many GL errors, not reporting any more for this context. use --disable-gl-error-limit to see all errors.
+Sep 18, 2019 18:28:57.79 [9068:9088:0918/182857.793124:ERROR:browser_process_sub_thread.cc(203)] Waited 783 ms for network service
+Sep 18, 2019 18:28:59.30 Opening in existing browser session.
+Sep 18, 2019 18:30:28.65 [9351:9368:0918/183028.659377:ERROR:browser_process_sub_thread.cc(203)] Waited 41 ms for network service
+Sep 18, 2019 18:30:28.78 Opening in existing browser session.
+Sep 18, 2019 18:33:22.79 [9652:9671:0918/183322.793637:ERROR:browser_process_sub_thread.cc(203)] Waited 915 ms for network service
+Sep 18, 2019 18:33:22.98 Opening in existing browser session.
+Sep 18, 2019 18:34:28.08 [3896:3916:0918/183428.082526:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Sep 18, 2019 18:50:50.45 [3896:3916:0918/185050.453863:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Sep 18, 2019 18:53:56.43 [10274:10294:0918/185356.432823:ERROR:browser_process_sub_thread.cc(203)] Waited 5 ms for network service
+Sep 18, 2019 18:53:56.90 Opening in existing browser session.
+Sep 18, 2019 18:56:36.58 [10610:10628:0918/185636.585591:ERROR:browser_process_sub_thread.cc(203)] Waited 7 ms for network service
+Sep 18, 2019 18:56:36.63 Opening in existing browser session.
+Sep 18, 2019 19:01:12.90 [11009:11027:0918/190112.902978:ERROR:browser_process_sub_thread.cc(203)] Waited 7 ms for network service
+Sep 18, 2019 19:01:12.96 Opening in existing browser session.
+Sep 18, 2019 19:12:17.95 [3928:3928:0918/191217.928317:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Sep 18, 2019 19:12:21.52 
+Sep 18, 2019 19:12:21.52 (nautilus:11561): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+Sep 18, 2019 19:12:21.52 
+Sep 18, 2019 19:12:21.52 (nautilus:11561): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+Sep 18, 2019 19:12:21.59 
+Sep 18, 2019 19:12:21.59 (nautilus:11561): Gtk-CRITICAL **: gtk_icon_theme_get_for_screen: assertion 'GDK_IS_SCREEN (screen)' failed
+Sep 18, 2019 19:12:21.59 
+Sep 18, 2019 19:12:21.59 (nautilus:11561): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+Sep 18, 2019 19:12:21.59 
+Sep 18, 2019 19:12:21.59 (nautilus:11561): GLib-GObject-CRITICAL **: g_signal_connect_object: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+Sep 18, 2019 19:20:25.89 [11928:11950:0918/192025.899310:ERROR:browser_process_sub_thread.cc(203)] Waited 0 ms for network service
+Sep 18, 2019 19:20:26.00 Opening in existing browser session.
+Sep 18, 2019 19:31:23.22 [12299:12317:0918/193123.221245:ERROR:browser_process_sub_thread.cc(203)] Waited 1 ms for network service
+Sep 18, 2019 19:31:23.29 Opening in existing browser session.
+Sep 18, 2019 19:33:51.36 [3936:3946:0918/193351.366680:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -200
+Sep 18, 2019 19:33:51.36 [3936:3946:0918/193351.366827:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -200
+Sep 18, 2019 19:33:51.36 [3936:3946:0918/193351.366877:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -200
+Sep 18, 2019 19:34:48.88 [3928:3928:0918/193448.880627:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Sep 18, 2019 19:40:47.48 [3928:3928:0918/194047.481264:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Sep 18, 2019 20:21:59.97 [14393:14412:0918/202159.979766:ERROR:browser_process_sub_thread.cc(203)] Waited 8 ms for network service
+Sep 18, 2019 20:22:00.04 Opening in existing browser session.
+Sep 18, 2019 20:26:16.32 [14803:14820:0918/202616.328608:ERROR:browser_process_sub_thread.cc(203)] Waited 6 ms for network service
+Sep 18, 2019 20:26:16.41 Opening in existing browser session.
+Sep 18, 2019 20:28:05.92 [3896:3916:0918/202805.921145:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Sep 18, 2019 20:28:31.93 [3928:3928:0918/202831.934611:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Sep 18, 2019 20:40:47.54 [3928:3928:0918/204047.544971:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Sep 18, 2019 20:44:58.07 [15873:15892:0918/204458.070944:ERROR:browser_process_sub_thread.cc(203)] Waited 13 ms for network service
+Sep 18, 2019 20:44:58.21 Opening in existing browser session.
+Sep 18, 2019 21:02:32.30 [16494:16512:0918/210232.304323:ERROR:browser_process_sub_thread.cc(203)] Waited 262 ms for network service
+Sep 18, 2019 21:02:32.33 Opening in existing browser session.
+Sep 18, 2019 21:12:19.72 [3928:3928:0918/211219.659452:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Sep 18, 2019 21:12:53.89 [3928:3928:0918/211253.892226:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Sep 18, 2019 21:17:00.63 [3928:3928:0918/211700.637814:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Sep 18, 2019 21:17:02.47 [3928:3928:0918/211702.477595:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Sep 18, 2019 21:18:01.01 [3928:3928:0918/211801.017137:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Sep 18, 2019 21:27:49.26 [3928:3928:0918/212749.261851:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Sep 18, 2019 21:28:38.78 [3896:3916:0918/212838.786429:ERROR:mcs_client.cc(754)] Received close command, resetting connection.
+Sep 18, 2019 21:37:21.69 [3928:3928:0918/213721.694548:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Sep 18, 2019 21:39:06.43 [3896:3916:0918/213906.435337:ERROR:browser_process_sub_thread.cc(203)] Waited 1309 ms for network service
+
+Sep 25, 2019 18:19:39.79 NEW SESSION
+Sep 25, 2019 18:19:39.79 [5339:5359:0925/181939.775379:ERROR:browser_process_sub_thread.cc(203)] Waited 0 ms for network service
+Sep 25, 2019 18:19:39.80 Opening in existing browser session.
+Sep 25, 2019 18:24:44.92 [5733:5752:0925/182444.924323:ERROR:browser_process_sub_thread.cc(203)] Waited 0 ms for network service
+Sep 25, 2019 18:24:45.03 Opening in existing browser session.
+Sep 25, 2019 19:05:56.56 [8041:8070:0925/190556.518464:ERROR:browser_process_sub_thread.cc(203)] Waited 324 ms for network service
+Sep 25, 2019 19:05:57.47 Opening in existing browser session.
+
+Sep 29, 2019 15:55:56.36 NEW SESSION
+Sep 29, 2019 15:55:56.36 [4572:4592:0929/155555.393142:ERROR:browser_process_sub_thread.cc(203)] Waited 191 ms for network service
+Sep 29, 2019 15:56:00.61 Opening in existing browser session.
+
+Sep 29, 2019 19:09:35.63 NEW SESSION
+Sep 29, 2019 19:09:35.63 [10468:10486:0929/190935.600600:ERROR:browser_process_sub_thread.cc(203)] Waited 4 ms for network service
+Sep 29, 2019 19:09:35.75 Opening in existing browser session.
+Sep 29, 2019 19:50:40.02 [12310:12328:0929/195040.020170:ERROR:browser_process_sub_thread.cc(203)] Waited 9 ms for network service
+Sep 29, 2019 19:50:40.06 Opening in existing browser session.
+Sep 29, 2019 19:52:34.40 [12607:12625:0929/195234.408661:ERROR:browser_process_sub_thread.cc(203)] Waited 9 ms for network service
+Sep 29, 2019 19:52:34.46 Opening in existing browser session.
+Sep 29, 2019 19:57:05.56 [13014:13031:0929/195705.561986:ERROR:browser_process_sub_thread.cc(203)] Waited 9 ms for network service
+Sep 29, 2019 19:57:05.61 Opening in existing browser session.
+Sep 29, 2019 19:59:29.89 [13295:13313:0929/195929.896372:ERROR:browser_process_sub_thread.cc(203)] Waited 11 ms for network service
+Sep 29, 2019 19:59:29.98 Opening in existing browser session.
+Sep 29, 2019 20:09:49.36 [13657:13674:0929/200949.360554:ERROR:browser_process_sub_thread.cc(203)] Waited 6 ms for network service
+Sep 29, 2019 20:09:49.47 Opening in existing browser session.
+Sep 29, 2019 20:24:53.20 [14478:14496:0929/202453.202785:ERROR:browser_process_sub_thread.cc(203)] Waited 7 ms for network service
+Sep 29, 2019 20:24:53.31 Opening in existing browser session.
+Sep 29, 2019 20:57:57.07 [15861:15879:0929/205757.074415:ERROR:browser_process_sub_thread.cc(203)] Waited 28 ms for network service
+Sep 29, 2019 20:57:57.25 Opening in existing browser session.
+Sep 29, 2019 21:00:11.97 [16139:16157:0929/210011.979111:ERROR:browser_process_sub_thread.cc(203)] Waited 8 ms for network service
+Sep 29, 2019 21:00:12.03 Opening in existing browser session.
+Sep 29, 2019 21:03:37.79 [16531:16548:0929/210337.791067:ERROR:browser_process_sub_thread.cc(203)] Waited 14 ms for network service
+Sep 29, 2019 21:03:37.87 Opening in existing browser session.
+Sep 29, 2019 21:06:53.79 [17185:17204:0929/210653.794236:ERROR:browser_process_sub_thread.cc(203)] Waited 159 ms for network service
+Sep 29, 2019 21:06:53.99 Opening in existing browser session.
+Sep 29, 2019 21:14:42.13 [17696:17715:0929/211442.132561:ERROR:browser_process_sub_thread.cc(203)] Waited 13 ms for network service
+Sep 29, 2019 21:14:42.18 Opening in existing browser session.
+Sep 29, 2019 21:28:27.63 [18383:18402:0929/212827.638794:ERROR:browser_process_sub_thread.cc(203)] Waited 4 ms for network service
+Sep 29, 2019 21:28:27.71 Opening in existing browser session.
+Sep 29, 2019 21:37:00.51 [18913:18932:0929/213700.506850:ERROR:browser_process_sub_thread.cc(203)] Waited 389 ms for network service
+Sep 29, 2019 21:37:00.68 Opening in existing browser session.
+Sep 29, 2019 21:44:32.95 [19346:19365:0929/214432.951554:ERROR:browser_process_sub_thread.cc(203)] Waited 0 ms for network service
+Sep 29, 2019 21:44:33.03 Opening in existing browser session.
+Sep 29, 2019 21:47:54.95 [19735:19752:0929/214754.953354:ERROR:browser_process_sub_thread.cc(203)] Waited 9 ms for network service
+Sep 29, 2019 21:47:55.03 Opening in existing browser session.
+Sep 29, 2019 21:52:34.06 [20077:20094:0929/215234.065318:ERROR:browser_process_sub_thread.cc(203)] Waited 12 ms for network service
+Sep 29, 2019 21:52:34.14 Opening in existing browser session.
+
+Sep 30, 2019 24:50:48.08 NEW SESSION
+Sep 30, 2019 24:50:48.08 [24948:24968:0930/005046.727953:ERROR:browser_process_sub_thread.cc(203)] Waited 225 ms for network service
+Sep 30, 2019 24:50:48.15 Opening in existing browser session.
+Sep 30, 2019 24:54:30.96 [25306:25325:0930/005430.967896:ERROR:browser_process_sub_thread.cc(203)] Waited 12 ms for network service
+Sep 30, 2019 24:54:31.12 Opening in existing browser session.
+Sep 30, 2019 24:55:29.65 [25544:25561:0930/005529.654973:ERROR:browser_process_sub_thread.cc(203)] Waited 4 ms for network service
+Sep 30, 2019 24:55:29.74 Opening in existing browser session.
+Sep 30, 2019 24:58:47.04 [25879:25897:0930/005847.040104:ERROR:browser_process_sub_thread.cc(203)] Waited 13 ms for network service
+Sep 30, 2019 24:58:47.17 Opening in existing browser session.
+Sep 30, 2019 24:59:43.04 [26123:26140:0930/005943.046281:ERROR:browser_process_sub_thread.cc(203)] Waited 22 ms for network service
+Sep 30, 2019 24:59:43.11 Opening in existing browser session.
+Sep 30, 2019 01:03:24.74 [26436:26454:0930/010324.743763:ERROR:browser_process_sub_thread.cc(203)] Waited 3 ms for network service
+Sep 30, 2019 01:03:24.82 Opening in existing browser session.
+Sep 30, 2019 01:05:25.27 [26703:26722:0930/010525.270106:ERROR:browser_process_sub_thread.cc(203)] Waited 8 ms for network service
+Sep 30, 2019 01:05:25.35 Opening in existing browser session.
+Sep 30, 2019 01:06:22.25 [26951:26968:0930/010622.255825:ERROR:browser_process_sub_thread.cc(203)] Waited 9 ms for network service
+Sep 30, 2019 01:06:22.34 Opening in existing browser session.
+Sep 30, 2019 01:08:09.88 [27301:27318:0930/010809.886204:ERROR:browser_process_sub_thread.cc(203)] Waited 1 ms for network service
+Sep 30, 2019 01:08:09.97 Opening in existing browser session.
+Sep 30, 2019 01:27:31.27 Opening in existing browser session.
+Sep 30, 2019 01:28:44.57 [28524:28542:0930/012844.577398:ERROR:browser_process_sub_thread.cc(203)] Waited 95 ms for network service
+Sep 30, 2019 01:28:44.86 Opening in existing browser session.
+Sep 30, 2019 01:36:58.69 [29034:29053:0930/013658.696295:ERROR:browser_process_sub_thread.cc(203)] Waited 334 ms for network service
+Sep 30, 2019 01:36:58.83 Opening in existing browser session.
+Sep 30, 2019 01:38:34.13 [29314:29331:0930/013834.136568:ERROR:browser_process_sub_thread.cc(203)] Waited 8 ms for network service
+Sep 30, 2019 01:38:34.18 Opening in existing browser session.
+Sep 30, 2019 01:48:00.20 [29890:29909:0930/014800.199820:ERROR:browser_process_sub_thread.cc(203)] Waited 8 ms for network service
+Sep 30, 2019 01:48:00.27 Opening in existing browser session.
+
+Oct 01, 2019 21:00:46.58 NEW SESSION
+Oct 01, 2019 21:00:46.58 [31495:31516:1001/210046.569981:ERROR:browser_process_sub_thread.cc(203)] Waited 160 ms for network service
+Oct 01, 2019 21:00:46.87 Opening in existing browser session.
+Oct 01, 2019 21:34:04.54 [683:703:1001/213404.501197:ERROR:browser_process_sub_thread.cc(203)] Waited 0 ms for network service
+Oct 01, 2019 21:34:04.73 Opening in existing browser session.
+Oct 01, 2019 21:35:46.71 [974:995:1001/213546.718604:ERROR:browser_process_sub_thread.cc(203)] Waited 7 ms for network service
+Oct 01, 2019 21:35:46.91 Opening in existing browser session.
+Oct 01, 2019 21:37:08.89 [1320:1341:1001/213708.890332:ERROR:browser_process_sub_thread.cc(203)] Waited 7 ms for network service
+Oct 01, 2019 21:37:08.95 Opening in existing browser session.
+Oct 01, 2019 22:14:43.94 [3100:3120:1001/221443.936405:ERROR:browser_process_sub_thread.cc(203)] Waited 0 ms for network service
+Oct 01, 2019 22:14:44.32 Opening in existing browser session.
+Oct 01, 2019 22:17:10.46 [3405:3424:1001/221710.462471:ERROR:browser_process_sub_thread.cc(203)] Waited 30 ms for network service
+Oct 01, 2019 22:17:10.58 Opening in existing browser session.
+Oct 01, 2019 22:23:06.81 [3805:3825:1001/222306.810152:ERROR:browser_process_sub_thread.cc(203)] Waited 787 ms for network service
+Oct 01, 2019 22:23:06.99 Opening in existing browser session.
+Oct 01, 2019 22:29:36.10 [4319:4336:1001/222936.099962:ERROR:browser_process_sub_thread.cc(203)] Waited 7 ms for network service
+Oct 01, 2019 22:29:36.15 Opening in existing browser session.
+Oct 01, 2019 22:33:33.10 [4629:4647:1001/223333.109571:ERROR:browser_process_sub_thread.cc(203)] Waited 5 ms for network service
+Oct 01, 2019 22:33:33.22 Opening in existing browser session.
+Oct 01, 2019 22:36:00.45 [4912:4930:1001/223600.455418:ERROR:browser_process_sub_thread.cc(203)] Waited 7 ms for network service
+Oct 01, 2019 22:36:00.53 Opening in existing browser session.
+
+Oct 02, 2019 16:55:24.73 NEW SESSION
+Oct 02, 2019 16:55:24.73 Opening in existing browser session.
+Oct 02, 2019 16:58:38.27 Opening in existing browser session.
+Oct 02, 2019 17:00:57.78 Opening in existing browser session.
+Oct 02, 2019 17:06:04.91 Opening in existing browser session.
+Oct 02, 2019 17:16:49.33 Opening in existing browser session.
+Oct 02, 2019 18:51:37.37 Opening in existing browser session.
+Oct 02, 2019 19:04:37.13 Opening in existing browser session.
+Oct 02, 2019 19:05:46.51 Opening in existing browser session.
+Oct 02, 2019 19:06:20.75 Opening in existing browser session.
+Oct 02, 2019 19:09:56.70 Opening in existing browser session.
+Oct 02, 2019 19:22:05.02 Opening in existing browser session.
+Oct 02, 2019 19:22:53.57 Opening in existing browser session.
+Oct 02, 2019 19:43:33.99 Opening in existing browser session.
+Oct 02, 2019 20:20:41.79 Opening in existing browser session.
+Oct 02, 2019 20:21:23.93 Opening in existing browser session.
+Oct 02, 2019 20:22:23.50 Opening in existing browser session.
+Oct 02, 2019 20:24:31.91 Opening in existing browser session.
+Oct 02, 2019 20:25:31.10 Opening in existing browser session.
+Oct 02, 2019 20:26:23.36 Opening in existing browser session.
+Oct 02, 2019 20:29:53.69 Opening in existing browser session.
+Oct 02, 2019 20:36:28.28 Opening in existing browser session.
+Oct 02, 2019 20:46:08.98 Opening in existing browser session.
+Oct 02, 2019 20:47:45.05 Opening in existing browser session.
+
+Oct 02, 2019 20:50:07.91 NEW SESSION
+Oct 02, 2019 20:50:07.91 Opening in existing browser session.
+Oct 02, 2019 21:06:18.82 Opening in existing browser session.
+Oct 02, 2019 21:06:59.09 Opening in existing browser session.
+Oct 02, 2019 21:17:33.36 Opening in existing browser session.
+
+Oct 05, 2019 19:35:21.00 NEW SESSION
+Oct 05, 2019 19:35:21.01 Opening in existing browser session.
+Oct 05, 2019 19:43:33.12 Opening in existing browser session.
+Oct 05, 2019 19:55:23.16 Opening in existing browser session.
+Oct 05, 2019 20:30:57.30 Opening in existing browser session.
+Oct 05, 2019 20:35:33.53 Opening in existing browser session.
+Oct 05, 2019 20:37:19.47 Opening in existing browser session.
+Oct 05, 2019 20:56:55.14 Opening in existing browser session.
+Oct 05, 2019 21:01:35.82 Opening in existing browser session.
+Oct 05, 2019 21:08:50.33 Opening in existing browser session.
+Oct 05, 2019 21:16:58.62 Opening in existing browser session.
+Oct 05, 2019 21:19:45.93 Opening in existing browser session.
+Oct 05, 2019 21:24:41.74 Opening in existing browser session.
+Oct 05, 2019 21:25:58.51 Opening in existing browser session.
+Oct 05, 2019 21:33:15.58 Opening in existing browser session.
+Oct 05, 2019 21:37:11.84 Opening in existing browser session.
+Oct 05, 2019 21:43:57.74 Opening in existing browser session.
+Oct 05, 2019 21:47:58.77 Opening in existing browser session.
+Oct 05, 2019 21:59:12.82 Opening in existing browser session.
+Oct 05, 2019 22:01:11.28 Opening in existing browser session.
+Oct 05, 2019 22:03:25.30 Opening in existing browser session.
+Oct 05, 2019 22:28:08.93 Opening in existing browser session.
+Oct 05, 2019 22:31:34.34 Opening in existing browser session.
+Oct 05, 2019 22:37:22.41 Opening in existing browser session.
+Oct 05, 2019 22:39:49.03 Opening in existing browser session.
+Oct 05, 2019 22:54:52.13 Opening in existing browser session.
+Oct 05, 2019 23:00:31.95 Opening in existing browser session.
+Oct 05, 2019 23:13:37.98 Opening in existing browser session.
+Oct 05, 2019 23:16:04.37 Opening in existing browser session.
+Oct 05, 2019 23:22:04.95 Opening in existing browser session.
+Oct 05, 2019 23:25:06.14 Opening in existing browser session.
+Oct 05, 2019 23:27:24.83 Opening in existing browser session.
+
+Oct 08, 2019 19:30:46.77 NEW SESSION
+Oct 08, 2019 19:30:46.77 Opening in existing browser session.
+Oct 08, 2019 19:45:10.24 Opening in existing browser session.
+Oct 08, 2019 20:46:22.22 Opening in existing browser session.
+Oct 08, 2019 20:52:45.64 Opening in existing browser session.
+Oct 08, 2019 21:03:15.95 Opening in existing browser session.
+Oct 08, 2019 21:15:55.49 Opening in existing browser session.
+Oct 08, 2019 21:21:15.65 Opening in existing browser session.
+Oct 08, 2019 21:32:40.53 Opening in existing browser session.
+
+Oct 09, 2019 14:57:50.51 NEW SESSION
+Oct 09, 2019 14:57:50.51 [17125:17125:1009/145750.496312:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 09, 2019 14:59:02.50 [17125:17125:1009/145902.508154:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 09, 2019 15:03:05.51 Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+Oct 09, 2019 15:04:06.93 [17125:17125:1009/150406.930022:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 09, 2019 15:04:10.72 Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+Oct 09, 2019 15:04:18.47 Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+Oct 09, 2019 15:04:45.72 Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+Oct 09, 2019 15:05:14.33 Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+Oct 09, 2019 15:10:05.36 Opening in existing browser session.
+Oct 09, 2019 15:10:17.92 Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+Oct 09, 2019 15:11:12.85 Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+Oct 09, 2019 15:11:37.82 Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+Oct 09, 2019 15:11:48.22 Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+Oct 09, 2019 15:12:04.96 [17125:17125:1009/151204.961872:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 09, 2019 15:12:53.58 Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+Oct 09, 2019 15:14:31.06 Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+Oct 09, 2019 15:16:16.37 Opening in existing browser session.
+Oct 09, 2019 15:16:25.72 Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+Oct 09, 2019 15:20:01.91 Fontconfig error: Cannot load default config file
+Oct 09, 2019 15:20:25.66 Fontconfig error: Cannot load default config file
+Oct 09, 2019 15:20:37.16 Opening in existing browser session.
+Oct 09, 2019 15:20:53.80 Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+Oct 09, 2019 15:22:53.04 Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+Oct 09, 2019 15:24:28.21 Opening in existing browser session.
+Oct 09, 2019 15:24:42.55 Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+Oct 09, 2019 15:29:26.22 Opening in existing browser session.
+Oct 09, 2019 15:29:35.34 Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+Oct 09, 2019 15:29:46.90 Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+Oct 09, 2019 15:58:32.63 Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+Oct 09, 2019 17:00:15.86 Opening in existing browser session.
+Oct 09, 2019 17:00:54.39 Fontconfig error: Cannot load default config file
+Oct 09, 2019 17:02:07.78 Opening in existing browser session.
+Oct 09, 2019 17:04:50.26 [17125:17125:1009/170450.261652:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 09, 2019 17:04:59.45 [17125:17125:1009/170459.457299:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 09, 2019 17:05:32.29 Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+Oct 09, 2019 17:06:17.68 Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+Oct 09, 2019 17:09:00.91 Opening in existing browser session.
+Oct 09, 2019 17:13:22.03 Opening in existing browser session.
+Oct 09, 2019 17:17:00.20 [17125:17125:1009/171700.204747:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 09, 2019 17:21:22.62 Opening in existing browser session.
+Oct 09, 2019 17:23:37.41 Opening in existing browser session.
+Oct 09, 2019 17:31:07.42 [17125:17125:1009/173107.425928:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 09, 2019 17:32:41.96 Opening in existing browser session.
+Oct 09, 2019 17:42:26.56 Opening in existing browser session.
+Oct 09, 2019 17:42:52.97 Fontconfig error: Cannot load default config file
+Oct 09, 2019 17:46:13.69 Opening in existing browser session.
+Oct 09, 2019 17:51:15.55 Opening in existing browser session.
+Oct 09, 2019 17:51:27.50 Fontconfig error: Cannot load default config file
+Oct 09, 2019 17:53:53.38 Opening in existing browser session.
+
+Oct 09, 2019 17:59:07.82 NEW SESSION
+Oct 09, 2019 17:59:07.82 Opening in existing browser session.
+Oct 09, 2019 18:06:17.24 Opening in existing browser session.
+Oct 09, 2019 18:09:16.49 Opening in existing browser session.
+Oct 09, 2019 18:12:51.96 Opening in existing browser session.
+
+Oct 12, 2019 16:12:16.49 NEW SESSION
+Oct 12, 2019 16:12:16.49 Opening in existing browser session.
+Oct 12, 2019 16:21:49.18 Opening in existing browser session.
+Oct 12, 2019 16:24:30.82 Opening in existing browser session.
+Oct 12, 2019 16:30:54.80 Opening in existing browser session.
+Oct 12, 2019 16:33:48.64 Opening in existing browser session.
+Oct 12, 2019 16:50:00.08 Opening in existing browser session.
+
+Oct 12, 2019 19:32:49.16 NEW SESSION
+Oct 12, 2019 19:32:49.16 [10081:10081:1012/193249.158774:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 12, 2019 19:33:08.37 [10081:10081:1012/193308.375489:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 12, 2019 19:35:01.56 Opening in existing browser session.
+Oct 12, 2019 19:45:51.80 
+Oct 12, 2019 19:45:51.82 (nautilus:11061): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+Oct 12, 2019 19:45:51.82 
+Oct 12, 2019 19:45:51.82 (nautilus:11061): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+Oct 12, 2019 19:45:51.93 
+Oct 12, 2019 19:45:51.93 (nautilus:11061): Gtk-CRITICAL **: gtk_icon_theme_get_for_screen: assertion 'GDK_IS_SCREEN (screen)' failed
+Oct 12, 2019 19:45:51.93 
+Oct 12, 2019 19:45:51.93 (nautilus:11061): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+Oct 12, 2019 19:45:51.93 
+Oct 12, 2019 19:45:51.93 (nautilus:11061): GLib-GObject-CRITICAL **: g_signal_connect_object: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+Oct 12, 2019 20:09:27.24 [10081:10081:1012/200927.241667:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 12, 2019 20:09:28.72 [10081:10081:1012/200928.728078:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 12, 2019 20:10:22.32 [10081:10081:1012/201022.326675:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 12, 2019 20:11:38.91 [10081:10081:1012/201138.914544:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 12, 2019 20:11:40.60 [10081:10081:1012/201140.608753:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 12, 2019 20:11:41.55 [10081:10081:1012/201141.555765:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 12, 2019 20:11:43.02 [10081:10081:1012/201143.029233:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 12, 2019 20:12:33.27 [10081:10081:1012/201233.272078:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 12, 2019 20:12:46.04 [10081:10081:1012/201246.044140:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 12, 2019 20:14:05.98 [10081:10081:1012/201405.982708:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 12, 2019 20:15:15.68 [10081:10081:1012/201515.688813:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 12, 2019 20:15:19.59 [10081:10081:1012/201519.591606:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 12, 2019 20:15:28.37 [10081:10081:1012/201528.379098:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 12, 2019 20:31:45.98 Opening in existing browser session.
+Oct 12, 2019 20:38:05.84 Opening in existing browser session.
+Oct 12, 2019 20:42:42.98 Fontconfig error: Cannot load default config file
+Oct 12, 2019 20:42:55.05 Opening in existing browser session.
+Oct 12, 2019 20:47:47.22 Opening in existing browser session.
+Oct 12, 2019 20:48:32.98 [10081:10081:1012/204832.985830:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 12, 2019 20:49:06.51 [10081:10081:1012/204906.517597:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 12, 2019 20:53:15.29 [10081:10081:1012/205315.291356:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 12, 2019 20:53:18.16 [10081:10081:1012/205318.163152:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 12, 2019 20:54:44.49 [10081:10081:1012/205444.498928:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 12, 2019 20:56:12.53 Opening in existing browser session.
+Oct 12, 2019 20:57:41.14 Opening in existing browser session.
+Oct 12, 2019 21:02:48.58 Opening in existing browser session.
+Oct 12, 2019 21:04:31.72 Opening in existing browser session.
+Oct 12, 2019 21:07:59.73 Opening in existing browser session.
+Oct 12, 2019 21:11:35.15 [10081:10081:1012/211135.154489:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 12, 2019 21:16:16.35 Opening in existing browser session.
+Oct 12, 2019 21:21:36.47 [10081:10081:1012/212136.473246:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 12, 2019 21:28:09.82 [10081:10081:1012/212809.821820:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 12, 2019 21:29:10.64 Fontconfig error: Cannot load default config file
+Oct 12, 2019 21:29:10.93 [10081:10081:1012/212910.933250:ERROR:shared_image_backing_factory_gl_texture.cc(812)] CreateSharedImage: invalid size
+Oct 12, 2019 21:29:10.93 [10081:10081:1012/212910.933298:ERROR:shared_image_factory.cc(344)] CreateSharedImage: could not create backing.
+Oct 12, 2019 21:29:10.93 [10081:10081:1012/212910.933316:ERROR:shared_image_stub.cc(104)] SharedImageStub: Unable to create shared image
+Oct 12, 2019 21:29:11.39 [10081:10081:1012/212911.397731:ERROR:shared_image_backing_factory_gl_texture.cc(812)] CreateSharedImage: invalid size
+Oct 12, 2019 21:29:11.39 [10081:10081:1012/212911.398126:ERROR:shared_image_factory.cc(344)] CreateSharedImage: could not create backing.
+Oct 12, 2019 21:29:11.39 [10081:10081:1012/212911.398376:ERROR:shared_image_stub.cc(104)] SharedImageStub: Unable to create shared image
+Oct 12, 2019 21:29:11.54 [10081:10081:1012/212911.544921:ERROR:shared_image_backing_factory_gl_texture.cc(812)] CreateSharedImage: invalid size
+Oct 12, 2019 21:29:11.54 [10081:10081:1012/212911.544962:ERROR:shared_image_factory.cc(344)] CreateSharedImage: could not create backing.
+Oct 12, 2019 21:29:11.54 [10081:10081:1012/212911.544988:ERROR:shared_image_stub.cc(104)] SharedImageStub: Unable to create shared image
+Oct 12, 2019 21:29:11.65 [10081:10081:1012/212911.651551:ERROR:shared_image_backing_factory_gl_texture.cc(812)] CreateSharedImage: invalid size
+Oct 12, 2019 21:29:11.65 [10081:10081:1012/212911.652381:ERROR:shared_image_factory.cc(344)] CreateSharedImage: could not create backing.
+Oct 12, 2019 21:29:11.65 [10081:10081:1012/212911.652629:ERROR:shared_image_stub.cc(104)] SharedImageStub: Unable to create shared image
+Oct 12, 2019 21:29:11.79 [10081:10081:1012/212911.791615:ERROR:shared_image_backing_factory_gl_texture.cc(812)] CreateSharedImage: invalid size
+Oct 12, 2019 21:29:11.79 [10081:10081:1012/212911.791752:ERROR:shared_image_factory.cc(344)] CreateSharedImage: could not create backing.
+Oct 12, 2019 21:29:11.79 [10081:10081:1012/212911.791775:ERROR:shared_image_stub.cc(104)] SharedImageStub: Unable to create shared image
+Oct 12, 2019 21:29:11.82 [10081:10081:1012/212911.827772:ERROR:shared_image_backing_factory_gl_texture.cc(812)] CreateSharedImage: invalid size
+Oct 12, 2019 21:29:11.82 [10081:10081:1012/212911.828078:ERROR:shared_image_factory.cc(344)] CreateSharedImage: could not create backing.
+Oct 12, 2019 21:29:11.82 [10081:10081:1012/212911.828274:ERROR:shared_image_stub.cc(104)] SharedImageStub: Unable to create shared image
+Oct 12, 2019 21:29:11.94 [10081:10081:1012/212911.943038:ERROR:shared_image_backing_factory_gl_texture.cc(812)] CreateSharedImage: invalid size
+Oct 12, 2019 21:29:11.94 [10081:10081:1012/212911.944455:ERROR:shared_image_factory.cc(344)] CreateSharedImage: could not create backing.
+Oct 12, 2019 21:29:11.94 [10081:10081:1012/212911.944527:ERROR:shared_image_stub.cc(104)] SharedImageStub: Unable to create shared image
+Oct 12, 2019 21:29:12.04 [10081:10081:1012/212912.042301:ERROR:shared_image_backing_factory_gl_texture.cc(812)] CreateSharedImage: invalid size
+Oct 12, 2019 21:29:12.04 [10081:10081:1012/212912.042340:ERROR:shared_image_factory.cc(344)] CreateSharedImage: could not create backing.
+Oct 12, 2019 21:29:12.04 [10081:10081:1012/212912.042356:ERROR:shared_image_stub.cc(104)] SharedImageStub: Unable to create shared image
+Oct 12, 2019 21:29:12.15 [10081:10081:1012/212912.155447:ERROR:shared_image_backing_factory_gl_texture.cc(812)] CreateSharedImage: invalid size
+Oct 12, 2019 21:29:12.15 [10081:10081:1012/212912.157600:ERROR:shared_image_factory.cc(344)] CreateSharedImage: could not create backing.
+Oct 12, 2019 21:29:12.15 [10081:10081:1012/212912.157626:ERROR:shared_image_stub.cc(104)] SharedImageStub: Unable to create shared image
+Oct 12, 2019 21:29:12.19 [10081:10081:1012/212912.196446:ERROR:shared_image_backing_factory_gl_texture.cc(812)] CreateSharedImage: invalid size
+Oct 12, 2019 21:29:12.19 [10081:10081:1012/212912.197353:ERROR:shared_image_factory.cc(344)] CreateSharedImage: could not create backing.
+Oct 12, 2019 21:29:12.19 [10081:10081:1012/212912.197738:ERROR:shared_image_stub.cc(104)] SharedImageStub: Unable to create shared image
+Oct 12, 2019 21:29:12.37 [10081:10081:1012/212912.371093:ERROR:shared_image_backing_factory_gl_texture.cc(812)] CreateSharedImage: invalid size
+Oct 12, 2019 21:29:12.37 [10081:10081:1012/212912.371134:ERROR:shared_image_factory.cc(344)] CreateSharedImage: could not create backing.
+Oct 12, 2019 21:29:12.37 [10081:10081:1012/212912.371153:ERROR:shared_image_stub.cc(104)] SharedImageStub: Unable to create shared image
+Oct 12, 2019 21:29:13.10 [10081:10081:1012/212913.102152:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 12, 2019 21:32:09.32 [10081:10081:1012/213209.325996:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 12, 2019 21:35:17.65 Opening in existing browser session.
+Oct 12, 2019 21:38:57.87 Opening in existing browser session.
+Oct 12, 2019 21:40:38.44 [10047:10067:1012/214038.448096:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -21
+Oct 12, 2019 21:41:02.36 [10047:10067:1012/214102.361660:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+
+Oct 19, 2019 22:22:59.76 NEW SESSION
+Oct 19, 2019 22:22:59.77 Opening in existing browser session.
+Oct 19, 2019 22:25:35.28 Opening in existing browser session.
+Oct 19, 2019 22:46:20.19 Opening in existing browser session.
+Oct 19, 2019 23:10:52.70 Opening in existing browser session.
+Oct 19, 2019 23:34:35.72 Opening in existing browser session.
+Oct 20, 2019 24:00:20.78 Opening in existing browser session.
+Oct 20, 2019 24:08:47.01 Opening in existing browser session.
+Oct 20, 2019 24:13:17.92 Opening in existing browser session.
+Oct 20, 2019 24:16:17.28 Opening in existing browser session.
+Oct 20, 2019 24:22:43.72 Opening in existing browser session.
+Oct 20, 2019 05:29:41.62 Opening in existing browser session.
+Oct 20, 2019 06:09:34.24 Opening in existing browser session.
+Oct 20, 2019 06:17:13.66 Opening in existing browser session.
+Oct 20, 2019 06:20:03.91 Opening in existing browser session.
+Oct 20, 2019 06:21:55.79 Opening in existing browser session.
+Oct 20, 2019 06:25:11.21 Opening in existing browser session.
+Oct 20, 2019 06:26:27.50 Opening in existing browser session.
+Oct 20, 2019 06:29:40.67 Opening in existing browser session.
+Oct 20, 2019 06:32:34.11 Opening in existing browser session.
+Oct 20, 2019 07:05:57.93 Opening in existing browser session.
+Oct 20, 2019 07:10:56.67 Opening in existing browser session.
+Oct 20, 2019 07:14:18.51 Opening in existing browser session.
+Oct 20, 2019 07:18:33.63 Opening in existing browser session.
+Oct 20, 2019 07:29:25.45 Opening in existing browser session.
+Oct 20, 2019 07:40:13.36 Opening in existing browser session.
+Oct 20, 2019 07:49:45.45 Opening in existing browser session.
+Oct 20, 2019 08:22:37.86 Opening in existing browser session.
+Oct 20, 2019 08:25:41.22 Opening in existing browser session.
+Oct 20, 2019 08:31:34.06 Opening in existing browser session.
+Oct 20, 2019 08:34:29.06 Opening in existing browser session.
+Oct 20, 2019 08:34:57.66 Opening in existing browser session.
+Oct 20, 2019 08:35:12.10 Opening in existing browser session.
+Oct 20, 2019 08:36:14.14 Opening in existing browser session.
+Oct 20, 2019 08:41:05.60 Opening in existing browser session.
+Oct 20, 2019 08:46:27.50 Opening in existing browser session.
+Oct 20, 2019 09:14:10.37 Opening in existing browser session.
+
+Oct 23, 2019 05:41:35.09 NEW SESSION
+Oct 23, 2019 05:41:35.09 Opening in existing browser session.
+Oct 23, 2019 05:55:07.73 Opening in existing browser session.
+Oct 23, 2019 05:59:38.04 Opening in existing browser session.
+Oct 23, 2019 06:03:55.73 Opening in existing browser session.
+Oct 23, 2019 09:54:47.18 Opening in existing browser session.
+Oct 23, 2019 09:57:47.61 Opening in existing browser session.
+Oct 23, 2019 10:00:45.14 Opening in existing browser session.
+Oct 23, 2019 10:15:33.85 Opening in existing browser session.
+Oct 23, 2019 10:20:06.32 Opening in existing browser session.
+Oct 23, 2019 10:32:34.16 Opening in existing browser session.
+Oct 23, 2019 10:40:46.21 Opening in existing browser session.
+Oct 23, 2019 16:34:16.25 Opening in existing browser session.
+Oct 23, 2019 19:12:47.80 Opening in existing browser session.
+Oct 23, 2019 19:23:52.88 Opening in existing browser session.
+
+Oct 23, 2019 19:29:44.42 NEW SESSION
+Oct 23, 2019 19:29:44.42 Opening in existing browser session.
+Oct 23, 2019 19:32:52.21 Opening in existing browser session.
+Oct 23, 2019 19:34:53.19 Opening in existing browser session.
+Oct 23, 2019 19:35:48.95 Opening in existing browser session.
+Oct 23, 2019 19:38:03.23 Opening in existing browser session.
+Oct 23, 2019 19:39:12.28 Opening in existing browser session.
+Oct 23, 2019 19:39:51.38 Opening in existing browser session.
+Oct 23, 2019 19:54:12.03 Opening in existing browser session.
+Oct 23, 2019 20:19:10.17 Opening in existing browser session.
+Oct 23, 2019 20:21:47.52 Opening in existing browser session.
+Oct 23, 2019 20:22:47.02 Opening in existing browser session.
+Oct 23, 2019 20:24:40.48 Opening in existing browser session.
+
+Nov 09, 2019 11:26:58.31 NEW SESSION
+Nov 09, 2019 11:26:58.31 Opening in existing browser session.
+Nov 09, 2019 11:30:04.50 Opening in existing browser session.
+Nov 09, 2019 11:31:23.63 Opening in existing browser session.
+Nov 09, 2019 11:32:04.48 Opening in existing browser session.
+Nov 09, 2019 11:33:22.61 Opening in existing browser session.
+Nov 09, 2019 11:35:21.40 Opening in existing browser session.
+Nov 09, 2019 11:37:15.82 Opening in existing browser session.
+Nov 09, 2019 11:41:42.75 Opening in existing browser session.
+Nov 09, 2019 11:51:10.32 Opening in existing browser session.
+Nov 09, 2019 11:56:08.88 Opening in existing browser session.
+Nov 09, 2019 11:58:54.47 Opening in existing browser session.
+Nov 09, 2019 12:00:41.58 Opening in existing browser session.
+Nov 09, 2019 12:42:20.52 Opening in existing browser session.
+
+Nov 10, 2019 04:29:50.26 NEW SESSION
+Nov 10, 2019 04:29:50.26 Opening in existing browser session.
+Nov 10, 2019 04:51:28.75 Opening in existing browser session.
+Nov 10, 2019 05:11:35.16 Opening in existing browser session.
+
+Nov 10, 2019 05:20:26.44 NEW SESSION
+Nov 10, 2019 05:20:26.44 Opening in existing browser session.
+Nov 10, 2019 05:32:32.11 Opening in existing browser session.
+Nov 10, 2019 05:45:59.23 Opening in existing browser session.
+Nov 10, 2019 05:54:45.59 Opening in existing browser session.
+Nov 10, 2019 06:06:37.45 Opening in existing browser session.
+Nov 10, 2019 06:12:43.06 Opening in existing browser session.
+Nov 10, 2019 06:44:43.62 Opening in existing browser session.
+
+Nov 10, 2019 08:42:13.63 NEW SESSION
+Nov 10, 2019 08:42:13.63 [2744:2744:1110/084213.628922:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Nov 10, 2019 08:42:30.81 [3109:1:1110/084230.813088:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Nov 10, 2019 08:42:30.81 [3109:1:1110/084230.815157:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Nov 10, 2019 08:42:30.81 [3109:1:1110/084230.816613:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Nov 10, 2019 08:42:30.81 [3109:1:1110/084230.817653:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Nov 10, 2019 08:42:33.99 [3109:1:1110/084233.992296:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Nov 10, 2019 08:42:37.60 Fontconfig error: Cannot load default config file
+Nov 10, 2019 08:59:53.97 [4691:1:1110/085953.956213:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Nov 10, 2019 08:59:54.00 [4691:1:1110/085953.958121:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Nov 10, 2019 09:03:26.91 Opening in existing browser session.
+Nov 10, 2019 09:09:53.37 [5491:1:1110/090953.371211:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Nov 10, 2019 09:09:53.44 [5491:1:1110/090953.373065:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Nov 10, 2019 09:09:54.60 [5490:1:1110/090954.609516:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Nov 10, 2019 09:09:54.61 [5490:1:1110/090954.610223:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Nov 10, 2019 09:09:54.61 [5490:1:1110/090954.611378:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Nov 10, 2019 09:09:54.62 [5490:1:1110/090954.627007:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Nov 10, 2019 09:09:55.60 [5490:1:1110/090955.603525:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Nov 10, 2019 09:09:55.60 [5490:1:1110/090955.604020:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Nov 10, 2019 09:11:38.12 Fontconfig error: Cannot load default config file
+Nov 10, 2019 09:14:28.45 Opening in existing browser session.
+Nov 10, 2019 09:14:32.65 [2744:2744:1110/091432.649923:ERROR:shared_image_manager.cc(120)] SharedImageManager::ProduceGLTexture: Trying to produce a representation from a non-existent mailbox. 37:88:BF:B3:6F:55:AF:DD:06:9D:81:14:76:B5:77:A9
+Nov 10, 2019 09:14:32.65 [2744:2744:1110/091432.650038:ERROR:gles2_cmd_decoder.cc(18526)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoCreateAndTexStorage2DSharedImageINTERNAL: invalid mailbox name
+Nov 10, 2019 09:14:32.65 [2744:2744:1110/091432.650067:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.65 [2744:2744:1110/091432.650083:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.65 [2744:2744:1110/091432.650097:ERROR:shared_image_manager.cc(120)] SharedImageManager::ProduceGLTexture: Trying to produce a representation from a non-existent mailbox. F7:33:EC:93:72:5A:AB:1D:B7:4B:D2:D8:F0:8F:40:69
+Nov 10, 2019 09:14:32.65 [2744:2744:1110/091432.650123:ERROR:gles2_cmd_decoder.cc(18526)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoCreateAndTexStorage2DSharedImageINTERNAL: invalid mailbox name
+Nov 10, 2019 09:14:32.65 [2744:2744:1110/091432.650138:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.65 [2744:2744:1110/091432.650166:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.65 [2744:2744:1110/091432.650203:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:32.65 [2744:2744:1110/091432.650254:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.65 [2744:2744:1110/091432.650271:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.65 [2744:2744:1110/091432.650288:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.65 [2744:2744:1110/091432.650317:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:32.65 [2744:2744:1110/091432.650357:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.66 [2744:2744:1110/091432.664324:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.66 [2744:2744:1110/091432.664384:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.66 [2744:2744:1110/091432.664403:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.66 [2744:2744:1110/091432.664422:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.66 [2744:2744:1110/091432.664464:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:32.66 [2744:2744:1110/091432.664505:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.66 [2744:2744:1110/091432.664522:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.66 [2744:2744:1110/091432.664538:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.66 [2744:2744:1110/091432.664556:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:32.66 [2744:2744:1110/091432.664584:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.67 [2744:2744:1110/091432.677735:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.67 [2744:2744:1110/091432.677800:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.67 [2744:2744:1110/091432.677819:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.67 [2744:2744:1110/091432.677837:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.67 [2744:2744:1110/091432.677865:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:32.67 [2744:2744:1110/091432.677906:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.67 [2744:2744:1110/091432.677923:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.67 [2744:2744:1110/091432.677939:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.67 [2744:2744:1110/091432.677961:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:32.68 [2744:2744:1110/091432.677990:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.69 [2744:2744:1110/091432.688534:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.69 [2744:2744:1110/091432.688593:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.69 [2744:2744:1110/091432.688615:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.69 [2744:2744:1110/091432.688633:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.69 [2744:2744:1110/091432.688677:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:32.69 [2744:2744:1110/091432.688741:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.69 [2744:2744:1110/091432.688785:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.69 [2744:2744:1110/091432.688815:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.69 [2744:2744:1110/091432.688876:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:32.69 [2744:2744:1110/091432.688961:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.70 [2744:2744:1110/091432.708367:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.70 [2744:2744:1110/091432.708443:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.70 [2744:2744:1110/091432.708468:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.70 [2744:2744:1110/091432.708503:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.71 [2744:2744:1110/091432.708539:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:32.71 [2744:2744:1110/091432.708586:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.71 [2744:2744:1110/091432.708607:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.71 [2744:2744:1110/091432.708626:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.71 [2744:2744:1110/091432.708648:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:32.71 [2744:2744:1110/091432.708683:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.72 [2744:2744:1110/091432.722147:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.72 [2744:2744:1110/091432.722239:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.72 [2744:2744:1110/091432.722277:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.72 [2744:2744:1110/091432.722308:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.72 [2744:2744:1110/091432.722397:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:32.72 [2744:2744:1110/091432.722658:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.72 [2744:2744:1110/091432.722737:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.72 [2744:2744:1110/091432.722776:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.72 [2744:2744:1110/091432.722840:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:32.72 [2744:2744:1110/091432.722953:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.74 [2744:2744:1110/091432.741894:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.74 [2744:2744:1110/091432.741961:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.74 [2744:2744:1110/091432.741983:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.74 [2744:2744:1110/091432.742002:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.74 [2744:2744:1110/091432.742028:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:32.74 [2744:2744:1110/091432.742071:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.74 [2744:2744:1110/091432.742090:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.74 [2744:2744:1110/091432.742108:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.74 [2744:2744:1110/091432.742128:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:32.74 [2744:2744:1110/091432.742163:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.75 [2744:2744:1110/091432.757002:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.75 [2744:2744:1110/091432.757067:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.75 [2744:2744:1110/091432.757091:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.75 [2744:2744:1110/091432.757109:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.75 [2744:2744:1110/091432.757138:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:32.75 [2744:2744:1110/091432.757183:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.75 [2744:2744:1110/091432.757201:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.75 [2744:2744:1110/091432.757218:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.75 [2744:2744:1110/091432.757238:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:32.75 [2744:2744:1110/091432.757268:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.77 [2744:2744:1110/091432.775145:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.77 [2744:2744:1110/091432.775204:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.77 [2744:2744:1110/091432.775223:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.77 [2744:2744:1110/091432.775240:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.77 [2744:2744:1110/091432.775266:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:32.77 [2744:2744:1110/091432.775307:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.77 [2744:2744:1110/091432.775325:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.77 [2744:2744:1110/091432.775341:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.77 [2744:2744:1110/091432.775360:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:32.77 [2744:2744:1110/091432.775392:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.78 [2744:2744:1110/091432.787217:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.78 [2744:2744:1110/091432.787264:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.78 [2744:2744:1110/091432.787281:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.78 [2744:2744:1110/091432.787298:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.78 [2744:2744:1110/091432.787323:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:32.78 [2744:2744:1110/091432.787355:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.78 [2744:2744:1110/091432.787367:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.78 [2744:2744:1110/091432.787378:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.78 [2744:2744:1110/091432.787391:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:32.78 [2744:2744:1110/091432.787411:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.80 [2744:2744:1110/091432.804479:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.80 [2744:2744:1110/091432.804526:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.80 [2744:2744:1110/091432.804549:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.80 [2744:2744:1110/091432.804570:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.80 [2744:2744:1110/091432.804606:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:32.80 [2744:2744:1110/091432.804671:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.80 [2744:2744:1110/091432.804715:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.80 [2744:2744:1110/091432.804756:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.80 [2744:2744:1110/091432.804775:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:32.80 [2744:2744:1110/091432.804803:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.82 [2744:2744:1110/091432.821972:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.82 [2744:2744:1110/091432.823334:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.82 [2744:2744:1110/091432.823391:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.82 [2744:2744:1110/091432.823436:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.82 [2744:2744:1110/091432.823490:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:32.82 [2744:2744:1110/091432.823559:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.82 [2744:2744:1110/091432.823585:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.82 [2744:2744:1110/091432.823608:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.82 [2744:2744:1110/091432.823636:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:32.82 [2744:2744:1110/091432.823678:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.84 [2744:2744:1110/091432.843239:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.84 [2744:2744:1110/091432.843298:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.84 [2744:2744:1110/091432.843323:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.84 [2744:2744:1110/091432.843341:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.84 [2744:2744:1110/091432.843406:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:32.84 [2744:2744:1110/091432.843457:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.84 [2744:2744:1110/091432.843480:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.84 [2744:2744:1110/091432.843506:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.84 [2744:2744:1110/091432.843536:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:32.84 [2744:2744:1110/091432.843569:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.85 [2744:2744:1110/091432.858636:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.85 [2744:2744:1110/091432.858675:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.85 [2744:2744:1110/091432.858695:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.85 [2744:2744:1110/091432.858714:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.85 [2744:2744:1110/091432.858760:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:32.85 [2744:2744:1110/091432.858799:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.86 [2744:2744:1110/091432.858817:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.86 [2744:2744:1110/091432.858832:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.86 [2744:2744:1110/091432.858851:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:32.86 [2744:2744:1110/091432.858880:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.87 [2744:2744:1110/091432.875013:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.87 [2744:2744:1110/091432.875061:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.87 [2744:2744:1110/091432.875084:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.87 [2744:2744:1110/091432.875118:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.87 [2744:2744:1110/091432.875170:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:32.87 [2744:2744:1110/091432.875227:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.87 [2744:2744:1110/091432.875260:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.87 [2744:2744:1110/091432.875294:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.87 [2744:2744:1110/091432.875337:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:32.87 [2744:2744:1110/091432.875393:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.88 [2744:2744:1110/091432.888218:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.89 [2744:2744:1110/091432.888291:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.89 [2744:2744:1110/091432.888312:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.89 [2744:2744:1110/091432.888343:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.89 [2744:2744:1110/091432.888385:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:32.89 [2744:2744:1110/091432.888439:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.89 [2744:2744:1110/091432.888468:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.89 [2744:2744:1110/091432.888503:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.89 [2744:2744:1110/091432.888541:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:32.89 [2744:2744:1110/091432.888610:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.90 [2744:2744:1110/091432.907713:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.90 [2744:2744:1110/091432.907750:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.90 [2744:2744:1110/091432.907761:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.90 [2744:2744:1110/091432.907772:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.90 [2744:2744:1110/091432.907789:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:32.90 [2744:2744:1110/091432.907828:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.90 [2744:2744:1110/091432.907857:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.90 [2744:2744:1110/091432.907886:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.90 [2744:2744:1110/091432.907913:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:32.90 [2744:2744:1110/091432.907951:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.92 [2744:2744:1110/091432.927100:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.92 [2744:2744:1110/091432.927158:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.92 [2744:2744:1110/091432.927177:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.92 [2744:2744:1110/091432.927198:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.92 [2744:2744:1110/091432.927227:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:32.92 [2744:2744:1110/091432.927280:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.92 [2744:2744:1110/091432.927306:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.92 [2744:2744:1110/091432.927325:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.92 [2744:2744:1110/091432.927352:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:32.92 [2744:2744:1110/091432.927392:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.94 [2744:2744:1110/091432.946896:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.94 [2744:2744:1110/091432.946948:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.94 [2744:2744:1110/091432.946967:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.94 [2744:2744:1110/091432.947005:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.94 [2744:2744:1110/091432.947051:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:32.94 [2744:2744:1110/091432.947112:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.94 [2744:2744:1110/091432.947144:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.94 [2744:2744:1110/091432.947179:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.94 [2744:2744:1110/091432.947221:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:32.94 [2744:2744:1110/091432.947263:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.95 [2744:2744:1110/091432.958731:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.95 [2744:2744:1110/091432.958778:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.95 [2744:2744:1110/091432.958799:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.95 [2744:2744:1110/091432.958824:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.95 [2744:2744:1110/091432.958857:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:32.95 [2744:2744:1110/091432.958900:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.96 [2744:2744:1110/091432.958918:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.96 [2744:2744:1110/091432.958940:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.96 [2744:2744:1110/091432.958964:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:32.96 [2744:2744:1110/091432.958998:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.97 [2744:2744:1110/091432.974886:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.97 [2744:2744:1110/091432.974932:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.97 [2744:2744:1110/091432.974954:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.97 [2744:2744:1110/091432.974979:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.97 [2744:2744:1110/091432.975044:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:32.97 [2744:2744:1110/091432.975114:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.97 [2744:2744:1110/091432.975141:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.97 [2744:2744:1110/091432.975162:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.97 [2744:2744:1110/091432.975222:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:32.97 [2744:2744:1110/091432.975268:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.99 [2744:2744:1110/091432.991845:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.99 [2744:2744:1110/091432.991898:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.99 [2744:2744:1110/091432.991917:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.99 [2744:2744:1110/091432.991939:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.99 [2744:2744:1110/091432.992003:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:32.99 [2744:2744:1110/091432.992069:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.99 [2744:2744:1110/091432.992112:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.99 [2744:2744:1110/091432.992152:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:32.99 [2744:2744:1110/091432.992194:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:32.99 [2744:2744:1110/091432.992249:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:33.00 [2744:2744:1110/091433.008722:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:33.00 [2744:2744:1110/091433.009032:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:33.00 [2744:2744:1110/091433.009304:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:33.00 [2744:2744:1110/091433.009452:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:33.00 [2744:2744:1110/091433.009605:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:33.00 [2744:2744:1110/091433.009804:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:33.00 [2744:2744:1110/091433.009934:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:33.01 [2744:2744:1110/091433.010055:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:33.01 [2744:2744:1110/091433.010226:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:33.01 [2744:2744:1110/091433.010387:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:33.03 [2744:2744:1110/091433.030198:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:33.03 [2744:2744:1110/091433.030269:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:33.03 [2744:2744:1110/091433.030293:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:33.03 [2744:2744:1110/091433.030311:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:33.03 [2744:2744:1110/091433.030349:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:33.03 [2744:2744:1110/091433.030390:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:33.03 [2744:2744:1110/091433.030405:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:33.03 [2744:2744:1110/091433.030419:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:33.03 [2744:2744:1110/091433.030500:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:33.03 [2744:2744:1110/091433.030544:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:33.04 [2744:2744:1110/091433.042523:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:33.04 [2744:2744:1110/091433.042620:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:33.04 [2744:2744:1110/091433.042664:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:33.04 [2744:2744:1110/091433.042704:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:33.04 [2744:2744:1110/091433.042753:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:33.04 [2744:2744:1110/091433.042815:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:33.04 [2744:2744:1110/091433.042860:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:33.04 [2744:2744:1110/091433.042900:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:33.04 [2744:2744:1110/091433.042942:ERROR:gles2_cmd_decoder.cc(10752)] [.DisplayCompositor]RENDER WARNING: texture bound to texture unit 0 is not renderable. It might be non-power-of-2 or have incompatible texture filtering (maybe)?
+Nov 10, 2019 09:14:33.04 [2744:2744:1110/091433.042997:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:33.06 [2744:2744:1110/091433.060589:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:33.06 [2744:2744:1110/091433.060867:ERROR:gles2_cmd_decoder.cc(18576)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoEndSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:33.06 [2744:2744:1110/091433.060992:ERROR:gles2_cmd_decoder.cc(18547)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : DoBeginSharedImageAccessCHROMIUM: bound texture is not a shared image
+Nov 10, 2019 09:14:33.06 [2744:2744:1110/091433.061096:ERROR:logger.cc(46)] Too many GL errors, not reporting any more for this context. use --disable-gl-error-limit to see all errors.
+Nov 10, 2019 09:16:18.64 [6030:1:1110/091618.640606:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Nov 10, 2019 09:16:18.66 [6030:1:1110/091618.641271:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Nov 10, 2019 09:16:43.72 [6076:1:1110/091643.726957:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Nov 10, 2019 09:16:43.72 [6076:1:1110/091643.727382:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Nov 10, 2019 09:16:43.73 [6076:1:1110/091643.731063:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Nov 10, 2019 09:16:43.73 [6076:1:1110/091643.731570:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Nov 10, 2019 09:16:43.73 [6076:1:1110/091643.733435:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Nov 10, 2019 09:16:43.73 [6076:1:1110/091643.734203:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Nov 10, 2019 09:16:43.74 [6076:1:1110/091643.743078:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Nov 10, 2019 09:16:43.74 [6076:1:1110/091643.743524:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Nov 10, 2019 09:19:39.00 [2744:2744:1110/091939.008708:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Nov 10, 2019 09:19:45.59 [2744:2744:1110/091945.590155:ERROR:shared_image_manager.cc(120)] SharedImageManager::ProduceGLTexture: Trying to produce a representation from a non-existent mailbox. 5B:94:4D:4F:52:E4:E0:73:B2:E6:19:DE:E0:D7:27:7B
+Nov 10, 2019 09:19:45.59 [2744:2744:1110/091945.590316:ERROR:shared_image_manager.cc(120)] SharedImageManager::ProduceGLTexture: Trying to produce a representation from a non-existent mailbox. 98:B9:0D:DF:3B:52:7F:46:18:FE:C9:10:D4:FB:1D:3D
+Nov 10, 2019 09:19:58.10 [6134:1:1110/091958.100454:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Nov 10, 2019 09:19:58.10 [6134:1:1110/091958.102934:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Nov 10, 2019 09:19:58.10 [6134:1:1110/091958.106570:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Nov 10, 2019 09:19:58.11 [6134:1:1110/091958.109944:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Nov 10, 2019 09:19:58.11 [6134:1:1110/091958.115686:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Nov 10, 2019 09:19:58.11 [6134:1:1110/091958.117617:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Nov 10, 2019 09:28:55.55 Opening in existing browser session.
+Nov 10, 2019 09:29:13.03 Fontconfig error: Cannot load default config file
+Nov 10, 2019 09:31:21.76 Opening in existing browser session.
+Nov 10, 2019 09:53:33.24 [8121:1:1110/095333.133144:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Nov 10, 2019 09:53:33.29 [8121:1:1110/095333.190692:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Nov 10, 2019 09:56:01.45 [8299:1:1110/095601.456311:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Nov 10, 2019 09:56:01.45 [8299:1:1110/095601.456856:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+
+Nov 10, 2019 10:05:56.23 NEW SESSION
+Nov 10, 2019 10:05:56.23 Opening in existing browser session.
+Nov 10, 2019 10:13:45.74 Opening in existing browser session.
+
+Nov 13, 2019 08:34:59.34 NEW SESSION
+Nov 13, 2019 08:34:59.34 Opening in existing browser session.
+Nov 13, 2019 09:03:58.70 Opening in existing browser session.
+Nov 13, 2019 09:15:40.08 Opening in existing browser session.
+Nov 13, 2019 09:37:04.34 Opening in existing browser session.

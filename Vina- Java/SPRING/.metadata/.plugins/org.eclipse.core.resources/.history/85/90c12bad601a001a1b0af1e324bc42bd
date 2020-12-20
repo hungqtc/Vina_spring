@@ -1,0 +1,53 @@
+
+package com.hung.controller;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.security.access.prepost.PreAuthorize;
+import org.springframework.web.bind.annotation.DeleteMapping;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.PutMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.hung.dto.CommentDTO;
+import com.hung.service.CommentService;
+
+@RestController
+public class CommentController {
+
+	@Autowired
+	CommentService CommentService;
+
+	@GetMapping(value = "/comment")
+	public List<CommentDTO> getAll() {
+		
+		return CommentService.findAll();
+		
+	}
+	
+	@GetMapping(value = "/comment/{id}")
+	public CommentDTO getOneById(@PathVariable long id) {
+		return CommentService.findById(id);
+	}
+	
+	@DeleteMapping(value = "/comment/{id}")
+	public void deleteComment(@PathVariable long id) {
+		CommentService.delete(id);
+	}
+
+	@PostMapping(value = "/comment")
+	public CommentDTO insertComment(@RequestBody CommentDTO Comment) {
+		return CommentService.save(Comment);
+	}
+
+	@PutMapping(value = "/comment/{id}")
+	public CommentDTO editComment(@RequestBody CommentDTO Comment, @PathVariable long id) {
+		Comment.setId(id);
+		return CommentService.save(Comment);
+	}
+
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE tiles-definitions PUBLIC
+       "-//Apache Software Foundation//DTD Tiles Configuration 3.0//EN"
+       "http://tiles.apache.org/dtds/tiles-config_3_0.dtd">
+<tiles-definitions>
+	<definition name="anews.layout" template="/WEB-INF/templates/anews/inc/master.jsp">
+		<put-attribute name="title" value="Home - Vinaenter EDU" />
+		<put-attribute name="header" value="/WEB-INF/templates/anews/inc/header.jsp" />
+		<put-attribute name="menu" value="/WEB-INF/templates/anews/inc/menu.jsp" />
+		<put-attribute name="leftbar" value="/WEB-INF/templates/anews/inc/leftbar.jsp" />
+		<put-attribute name="content" value="" />
+		<put-attribute name="footer" value="/WEB-INF/templates/anews/inc/footer.jsp" />
+	</definition>
+	<!--basic.basic.index:  name_project.name_class.name_method -->
+	<definition name="anews.anews.index" extends="anews.layout">
+		<put-attribute name="content" value="/WEB-INF/views/anews/index.jsp"></put-attribute>
+	</definition>
+	
+	<definition name="anews.anews.add" extends="anews.layout">
+		<put-attribute name="title" value="Add - Vinaenter" />
+		<put-attribute name="content" value="/WEB-INF/views/anews/add.jsp"></put-attribute>
+	</definition>
+	
+	<definition name="anews.anews.detail" extends="anews.layout">
+	<put-attribute name="title" value="Detail - Vinaenter" />
+		<put-attribute name="content" value="/WEB-INF/views/anews/detail.jsp"></put-attribute>
+	</definition>
+	
+	<definition name="anews.anews.cat" extends="anews.layout">
+	<put-attribute name="title" value="Cat - Vinaenter" />
+		<put-attribute name="content" value="/WEB-INF/views/anews/cat.jsp"></put-attribute>
+	</definition>
+		
+</tiles-definitions>

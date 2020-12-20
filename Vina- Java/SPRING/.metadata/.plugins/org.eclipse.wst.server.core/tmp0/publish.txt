@@ -1,0 +1,6 @@
+#Tomcat publish data
+#Thu Dec 05 13:35:34 ICT 2019
+org.eclipse.jst.jee.server\:/binary\:/home/hung/Vina-\ Java/SPRING/springd2bt/WebContent/WEB-INF/lib/spring-web-5.1.9.RELEASE.jar=WEB-INF/lib/spring-web-5.1.9.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:/home/hung/Vina-\ Java/SPRING/springd1/WebContent/WEB-INF/lib/spring-web-5.1.9.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.1.9.RELEASE-sources.jar
+org.eclipse.jst.jee.server\:/binary\:/home/hung/Vina-\ Java/SPRING/springd2bt/WebContent/WEB-INF/lib/spring-web-5.1.9.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.1.9.RELEASE-sources.jar
+org.eclipse.jst.jee.server\:/binary\:/home/hung/Vina-\ Java/SPRING/springd1/WebContent/WEB-INF/lib/spring-web-5.1.9.RELEASE.jar=WEB-INF/lib/spring-web-5.1.9.RELEASE.jar

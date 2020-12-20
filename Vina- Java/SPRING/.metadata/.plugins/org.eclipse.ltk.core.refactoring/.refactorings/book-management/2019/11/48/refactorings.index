@@ -1,0 +1,27 @@
+1574837356236	Rename type 'NewsEntity'
+1574837809330	Rename type 'AddressEntity'
+1574906883747	Rename type 'AbstractDTO'
+1574907040832	Rename type 'NewsRepository'
+1574907232601	Rename type 'AddressRepository'
+1574908765163	Rename type 'NewsConverter'
+1574908809758	Rename type 'NewsDTO'
+1574909008508	Rename type 'AddressConverter'
+1574909232547	Delete elements
+1574909239622	Delete elements
+1574909248339	Delete elements
+1574909269648	Delete elements
+1574909349423	Delete element
+1574909353099	Delete element
+1574909355933	Delete element
+1574932515009	Rename type 'NewsRepository'
+1574932637236	Rename type 'NewsService'
+1574932693289	Rename package 'com.hung.service.impls'
+1574932739217	Rename type 'NewsServiceImpl'
+1574933413255	Rename type 'NewsController'
+1574933751275	Delete element
+1575010122624	Rename type 'BookPaginationOP'
+1575017035433	Delete element
+1575017040044	Delete elements
+1575018190351	Delete element
+1575018193837	Delete element
+1575025867671	Delete elements

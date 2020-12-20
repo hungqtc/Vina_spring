@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Swagger2Config.java&apos; to &apos;book-management/src/main/java/com.hung.config&apos;&#x0A;- Original project: &apos;spring-boot&apos;&#x0A;- Destination element: &apos;book-management/src/main/java/com.hung.config&apos;&#x0A;- Original element: &apos;com.hung.config.Swagger2Config.java&apos;" description="Copy compilation unit" destination="=book-management/src\/main\/java&lt;com.hung.config" element1="/src\/main\/java&lt;com.hung.config{Swagger2Config.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1577180298189" units="1" version="1.0"/>
+</session>

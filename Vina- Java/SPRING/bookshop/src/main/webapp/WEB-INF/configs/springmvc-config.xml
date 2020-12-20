@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:mvc="http://www.springframework.org/schema/mvc"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="
+        http://www.springframework.org/schema/beans
+        https://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/mvc
+        https://www.springframework.org/schema/mvc/spring-mvc.xsd
+        http://www.springframework.org/schema/context
+        https://www.springframework.org/schema/context/spring-context.xsd">
+
+	<context:component-scan
+		base-package="edu.vinaenter" />
+	<mvc:annotation-driven />
+	<mvc:resources location="/WEB-INF/templates/admin/"
+		mapping="/admin/**" />
+	<mvc:resources location="/WEB-INF/templates/cland/"
+		mapping="/book/**" />
+	<mvc:resources location="/WEB-INF/templates/"
+		mapping="/resources/**" />
+	<mvc:resources location="/WEB-INF/views/"
+		mapping="/views/**" />
+	<mvc:resources location="/WEB-INF/uploads/"
+		mapping="/uploads/**" />
+
+	<bean id="tilesConfigurer"
+		class="org.springframework.web.servlet.view.tiles3.TilesConfigurer">
+		<property name="definitions">
+			<list>
+				<value>/WEB-INF/layouts/admin_layout.xml</value>
+				<value>/WEB-INF/layouts/book_layout.xml</value>
+			</list>
+		</property>
+	</bean>
+
+
+	<bean id="viewResolverTiles"
+		class="org.springframework.web.servlet.view.UrlBasedViewResolver">
+		<property name="viewClass"
+			value="org.springframework.web.servlet.view.tiles3.TilesView" />
+	</bean>
+
+	<bean id="multipartResolver"
+		class="org.springframework.web.multipart.commons.CommonsMultipartResolver">
+		<property name="maxUploadSize" value="10000000" />
+	</bean>
+
+	<bean id="mailSender"
+		class="org.springframework.mail.javamail.JavaMailSenderImpl">
+		<property name="host" value="smtp.gmail.com" />
+		<property name="port" value="587" />
+		<property name="username" value="hungqtc97@gmail.com" />
+		<property name="password" value="hung1231" />
+
+		<property name="javaMailProperties">
+			<props>
+			<prop key="mail.transport.protocol">smtp</prop>
+            <prop key="mail.smtp.auth">true</prop>
+            <prop key="mail.smtp.starttls.enable">true</prop>
+			</props>
+		</property>
+
+	</bean>
+</beans>

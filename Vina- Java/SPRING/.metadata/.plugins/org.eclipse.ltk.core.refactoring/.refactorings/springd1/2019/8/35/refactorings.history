@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;edu.vinaenter.controller&apos; to &apos;edu.vinaenter.controllers&apos;&#x0A;- Original project: &apos;springd1&apos;&#x0A;- Original element: &apos;springd1/src/edu.vinaenter.controller&apos;&#x0A;- Renamed element: &apos;springd1/src/edu.vinaenter.controllers&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;edu.vinaenter.controller&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;edu.vinaenter.controller" name="edu.vinaenter.controllers" qualified="false" references="true" stamp="1566738971725" textual="false" version="1.0"/>
+</session>
